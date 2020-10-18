@@ -202,7 +202,8 @@ PrefabInstance:
       propertyPath: m_Size.x
       value: 0.62066287
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 595370843426980540, guid: 9a75b10b837a6124d82c7345bd8deddc, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 9a75b10b837a6124d82c7345bd8deddc, type: 3}
 --- !u!1 &913508277
 GameObject:
@@ -216,6 +217,7 @@ GameObject:
   - component: {fileID: 913508280}
   - component: {fileID: 913508279}
   - component: {fileID: 913508281}
+  - component: {fileID: 913508282}
   m_Layer: 0
   m_Name: EnemySpawns
   m_TagString: Untagged
@@ -2459,6 +2461,35 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
+--- !u!114 &913508282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 913508277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11cd85980764ef741a8472575c4eebac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &1029363999 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 595370843426980538, guid: 9a75b10b837a6124d82c7345bd8deddc, type: 3}
+  m_PrefabInstance: {fileID: 741372058}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1029364000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029363999}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cadb3545258842242bc149d64a2ff14f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1075751409
 GameObject:
   m_ObjectHideFlags: 0
