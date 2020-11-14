@@ -226,7 +226,7 @@ TextureImporter:
     second: PokemonAttacks4_73
   - first:
       213: 439409245729968158
-    second: PokemonAttacks4_74
+    second: WaterGun1
   - first:
       213: 4493915538929628931
     second: PokemonAttacks4_75
@@ -316,7 +316,7 @@ TextureImporter:
     second: PokemonAttacks4_103
   - first:
       213: 6300215125475237120
-    second: PokemonAttacks4_104
+    second: WaterGun2
   - first:
       213: -3870620793440161645
     second: PokemonAttacks4_105
@@ -388,7 +388,7 @@ TextureImporter:
     second: PokemonAttacks4_127
   - first:
       213: 7684755144229464718
-    second: PokemonAttacks4_128
+    second: WaterGun3
   - first:
       213: -4015661741463534914
     second: PokemonAttacks4_129
@@ -466,7 +466,7 @@ TextureImporter:
     second: PokemonAttacks4_153
   - first:
       213: 7835675910466192931
-    second: PokemonAttacks4_154
+    second: WaterGun4
   - first:
       213: -524848791881529779
     second: PokemonAttacks4_155
@@ -4412,7 +4412,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_74
+      name: WaterGun1
       rect:
         serializedVersion: 2
         x: 361
@@ -5042,12 +5042,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_104
+      name: WaterGun2
       rect:
         serializedVersion: 2
         x: 358
-        y: 1726
-        width: 14
+        y: 1725
+        width: 13
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5546,7 +5546,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_128
+      name: WaterGun3
       rect:
         serializedVersion: 2
         x: 359
@@ -6092,12 +6092,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_154
+      name: WaterGun4
       rect:
         serializedVersion: 2
-        x: 345
+        x: 358
         y: 1662
-        width: 26
+        width: 13
         height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
