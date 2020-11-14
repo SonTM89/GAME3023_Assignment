@@ -1,0 +1,6886 @@
+fileFormatVersion: 2
+guid: 58e7690a6de7d2948902b2ae9c0f13e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -590903705479250841
+    second: PokemonAttacks3_0
+  - first:
+      213: -8432590390416875053
+    second: PokemonAttacks3_1
+  - first:
+      213: 9169327807890516215
+    second: PokemonAttacks3_2
+  - first:
+      213: 6315125605626219286
+    second: PokemonAttacks3_3
+  - first:
+      213: 2437972964252998014
+    second: PokemonAttacks3_4
+  - first:
+      213: -521380090832498129
+    second: PokemonAttacks3_5
+  - first:
+      213: 6557535182179979080
+    second: PokemonAttacks3_6
+  - first:
+      213: -1600703419520273816
+    second: PokemonAttacks3_7
+  - first:
+      213: 1681602524041084285
+    second: PokemonAttacks3_8
+  - first:
+      213: -8294846993574502277
+    second: PokemonAttacks3_9
+  - first:
+      213: -6322849089052400254
+    second: PokemonAttacks3_10
+  - first:
+      213: 3935226592430250769
+    second: PokemonAttacks3_11
+  - first:
+      213: -1829063332075228600
+    second: PokemonAttacks3_12
+  - first:
+      213: -2478994923003090864
+    second: PokemonAttacks3_13
+  - first:
+      213: -6377290662921878890
+    second: PokemonAttacks3_14
+  - first:
+      213: -391461754866069076
+    second: PokemonAttacks3_15
+  - first:
+      213: -4346129675968111127
+    second: PokemonAttacks3_16
+  - first:
+      213: 6990558637537242628
+    second: PokemonAttacks3_17
+  - first:
+      213: 1729040541449666174
+    second: PokemonAttacks3_18
+  - first:
+      213: -6190660527813581243
+    second: PokemonAttacks3_19
+  - first:
+      213: 4934004743368640329
+    second: PokemonAttacks3_20
+  - first:
+      213: 7446933628858668148
+    second: PokemonAttacks3_21
+  - first:
+      213: -7407076600871013034
+    second: PokemonAttacks3_22
+  - first:
+      213: 7060881730251974466
+    second: PokemonAttacks3_23
+  - first:
+      213: 2594782831520408625
+    second: PokemonAttacks3_24
+  - first:
+      213: 2538833931988745285
+    second: PokemonAttacks3_25
+  - first:
+      213: -1841200233699814307
+    second: PokemonAttacks3_26
+  - first:
+      213: -1302147687824963781
+    second: PokemonAttacks3_27
+  - first:
+      213: 3743255485117647535
+    second: PokemonAttacks3_28
+  - first:
+      213: 4864358179095642323
+    second: PokemonAttacks3_29
+  - first:
+      213: 3263994165353012832
+    second: PokemonAttacks3_30
+  - first:
+      213: -2894469763602875159
+    second: PokemonAttacks3_31
+  - first:
+      213: 1381852399788885615
+    second: PokemonAttacks3_32
+  - first:
+      213: -7953263038126178412
+    second: PokemonAttacks3_33
+  - first:
+      213: 2428478230724761024
+    second: PokemonAttacks3_34
+  - first:
+      213: -3132341360259719024
+    second: PokemonAttacks3_35
+  - first:
+      213: -5233637218280681464
+    second: PokemonAttacks3_36
+  - first:
+      213: -8497256290938351846
+    second: PokemonAttacks3_37
+  - first:
+      213: 4725188911187145245
+    second: PokemonAttacks3_38
+  - first:
+      213: 2036638071047910840
+    second: PokemonAttacks3_39
+  - first:
+      213: 4655158756420479325
+    second: PokemonAttacks3_40
+  - first:
+      213: -4954263366612596111
+    second: PokemonAttacks3_41
+  - first:
+      213: -8577600517120125804
+    second: PokemonAttacks3_42
+  - first:
+      213: -2131298064848805402
+    second: PokemonAttacks3_43
+  - first:
+      213: -2129911983840979371
+    second: PokemonAttacks3_44
+  - first:
+      213: 1095880492797127648
+    second: PokemonAttacks3_45
+  - first:
+      213: -8747446594332257766
+    second: PokemonAttacks3_46
+  - first:
+      213: 2301332649434234672
+    second: PokemonAttacks3_47
+  - first:
+      213: -8726850179295443759
+    second: PokemonAttacks3_48
+  - first:
+      213: 1250058262875449837
+    second: PokemonAttacks3_49
+  - first:
+      213: 5394118180584154728
+    second: PokemonAttacks3_50
+  - first:
+      213: 2745899164714045636
+    second: PokemonAttacks3_51
+  - first:
+      213: 5178239172400964158
+    second: PokemonAttacks3_52
+  - first:
+      213: 8635547435130439329
+    second: PokemonAttacks3_53
+  - first:
+      213: -4016565762411151886
+    second: PokemonAttacks3_54
+  - first:
+      213: -254507454449507355
+    second: PokemonAttacks3_55
+  - first:
+      213: 4556332334311287432
+    second: PokemonAttacks3_56
+  - first:
+      213: -4685631335797994151
+    second: PokemonAttacks3_57
+  - first:
+      213: -2340381382004213316
+    second: PokemonAttacks3_58
+  - first:
+      213: 7823100238876583824
+    second: PokemonAttacks3_59
+  - first:
+      213: -6973975611031518050
+    second: PokemonAttacks3_60
+  - first:
+      213: 61792583208960842
+    second: PokemonAttacks3_61
+  - first:
+      213: -45872993939597798
+    second: PokemonAttacks3_62
+  - first:
+      213: 7413803641426450611
+    second: PokemonAttacks3_63
+  - first:
+      213: -6077552928421153177
+    second: PokemonAttacks3_64
+  - first:
+      213: -1095583975229480228
+    second: PokemonAttacks3_65
+  - first:
+      213: 5038367383260845906
+    second: PokemonAttacks3_66
+  - first:
+      213: 2685008610829687216
+    second: PokemonAttacks3_67
+  - first:
+      213: 8286930261283355282
+    second: PokemonAttacks3_68
+  - first:
+      213: -7138704821471297044
+    second: PokemonAttacks3_69
+  - first:
+      213: -296866760142334657
+    second: PokemonAttacks3_70
+  - first:
+      213: -8729563519579260352
+    second: PokemonAttacks3_71
+  - first:
+      213: 3359462215140459959
+    second: PokemonAttacks3_72
+  - first:
+      213: -4504328503415330996
+    second: PokemonAttacks3_73
+  - first:
+      213: 4214319992890095856
+    second: PokemonAttacks3_74
+  - first:
+      213: -9134335458856957080
+    second: PokemonAttacks3_75
+  - first:
+      213: -3435703871286490925
+    second: PokemonAttacks3_76
+  - first:
+      213: 7777650408685085594
+    second: PokemonAttacks3_77
+  - first:
+      213: 4449530081128875201
+    second: PokemonAttacks3_78
+  - first:
+      213: -6801934306610637907
+    second: PokemonAttacks3_79
+  - first:
+      213: -3746002577766959757
+    second: PokemonAttacks3_80
+  - first:
+      213: 8615565487201764831
+    second: PokemonAttacks3_81
+  - first:
+      213: -3096411497524928575
+    second: PokemonAttacks3_82
+  - first:
+      213: -4022296751990405810
+    second: PokemonAttacks3_83
+  - first:
+      213: -1925145271611215839
+    second: PokemonAttacks3_84
+  - first:
+      213: -4118939404587124839
+    second: PokemonAttacks3_85
+  - first:
+      213: 7242644109986443291
+    second: PokemonAttacks3_86
+  - first:
+      213: -3123464086430742453
+    second: PokemonAttacks3_87
+  - first:
+      213: 1141702834719521736
+    second: PokemonAttacks3_88
+  - first:
+      213: 5397207645498848501
+    second: PokemonAttacks3_89
+  - first:
+      213: -177952137480225864
+    second: PokemonAttacks3_90
+  - first:
+      213: 5858971992498222077
+    second: PokemonAttacks3_91
+  - first:
+      213: -7131491405773092995
+    second: PokemonAttacks3_92
+  - first:
+      213: -7036206004316797768
+    second: PokemonAttacks3_93
+  - first:
+      213: -4708350118066050833
+    second: PokemonAttacks3_94
+  - first:
+      213: -3427092859012488680
+    second: PokemonAttacks3_95
+  - first:
+      213: 5059508983691345113
+    second: PokemonAttacks3_96
+  - first:
+      213: 7409597687732512425
+    second: PokemonAttacks3_97
+  - first:
+      213: -5637615503615602806
+    second: PokemonAttacks3_98
+  - first:
+      213: 8639214816521132719
+    second: PokemonAttacks3_99
+  - first:
+      213: -2526014060619874845
+    second: PokemonAttacks3_100
+  - first:
+      213: 2424073401750607595
+    second: PokemonAttacks3_101
+  - first:
+      213: -1909349043471303049
+    second: PokemonAttacks3_102
+  - first:
+      213: 1513125744445790710
+    second: PokemonAttacks3_103
+  - first:
+      213: -7841809968327492474
+    second: PokemonAttacks3_104
+  - first:
+      213: -8117642047599692072
+    second: PokemonAttacks3_105
+  - first:
+      213: -6780596715329336911
+    second: PokemonAttacks3_106
+  - first:
+      213: -3084727644010953902
+    second: PokemonAttacks3_107
+  - first:
+      213: -2784378036502028369
+    second: PokemonAttacks3_108
+  - first:
+      213: 2392804506147581950
+    second: PokemonAttacks3_109
+  - first:
+      213: 7122590991395023253
+    second: PokemonAttacks3_110
+  - first:
+      213: 1447413055765958317
+    second: PokemonAttacks3_111
+  - first:
+      213: 8857849089941550974
+    second: PokemonAttacks3_112
+  - first:
+      213: 7986599445386139493
+    second: PokemonAttacks3_113
+  - first:
+      213: -2077026315996007733
+    second: PokemonAttacks3_114
+  - first:
+      213: -156006715159110412
+    second: PokemonAttacks3_115
+  - first:
+      213: 6437433878644958465
+    second: PokemonAttacks3_116
+  - first:
+      213: 9157190867900968272
+    second: PokemonAttacks3_117
+  - first:
+      213: -3701701525856494781
+    second: PokemonAttacks3_118
+  - first:
+      213: -615708250291129101
+    second: PokemonAttacks3_119
+  - first:
+      213: 6601793319547414011
+    second: PokemonAttacks3_120
+  - first:
+      213: 6701555875833360134
+    second: PokemonAttacks3_121
+  - first:
+      213: 7948238866250399399
+    second: PokemonAttacks3_122
+  - first:
+      213: 7288217770845253045
+    second: PokemonAttacks3_123
+  - first:
+      213: 7123068005099692832
+    second: PokemonAttacks3_124
+  - first:
+      213: 3666084810172732204
+    second: PokemonAttacks3_125
+  - first:
+      213: 1530657730834276990
+    second: PokemonAttacks3_126
+  - first:
+      213: 671447776004711900
+    second: PokemonAttacks3_127
+  - first:
+      213: 6845792118552827624
+    second: PokemonAttacks3_128
+  - first:
+      213: 6179418458437695101
+    second: PokemonAttacks3_129
+  - first:
+      213: 2006520630915693400
+    second: PokemonAttacks3_130
+  - first:
+      213: 6445485560058056293
+    second: PokemonAttacks3_131
+  - first:
+      213: -5706914202610459510
+    second: PokemonAttacks3_132
+  - first:
+      213: 8887284308148640917
+    second: PokemonAttacks3_133
+  - first:
+      213: 2001560336861948164
+    second: PokemonAttacks3_134
+  - first:
+      213: 4845900299468264541
+    second: PokemonAttacks3_135
+  - first:
+      213: 3656506076025072505
+    second: PokemonAttacks3_136
+  - first:
+      213: -7903554493173145098
+    second: PokemonAttacks3_137
+  - first:
+      213: -2732931112590832233
+    second: PokemonAttacks3_138
+  - first:
+      213: -7139105220634226478
+    second: PokemonAttacks3_139
+  - first:
+      213: 8552512765483947314
+    second: PokemonAttacks3_140
+  - first:
+      213: 2459086839219004347
+    second: PokemonAttacks3_141
+  - first:
+      213: -6653961468380937456
+    second: PokemonAttacks3_142
+  - first:
+      213: -1566428691848404924
+    second: PokemonAttacks3_143
+  - first:
+      213: -9164468542510064522
+    second: PokemonAttacks3_144
+  - first:
+      213: 2512731892760554149
+    second: PokemonAttacks3_145
+  - first:
+      213: -6222756384400192419
+    second: PokemonAttacks3_146
+  - first:
+      213: 1286852832713471958
+    second: PokemonAttacks3_147
+  - first:
+      213: -1855621614484872193
+    second: PokemonAttacks3_148
+  - first:
+      213: -896782831836515116
+    second: PokemonAttacks3_149
+  - first:
+      213: -5108674049948690352
+    second: PokemonAttacks3_150
+  - first:
+      213: -6290638441870435639
+    second: PokemonAttacks3_151
+  - first:
+      213: 8214488248598738039
+    second: PokemonAttacks3_152
+  - first:
+      213: -5256067501443603796
+    second: PokemonAttacks3_153
+  - first:
+      213: 4994265650970470646
+    second: PokemonAttacks3_154
+  - first:
+      213: 4048763549773529030
+    second: PokemonAttacks3_155
+  - first:
+      213: -7106298073217903638
+    second: PokemonAttacks3_156
+  - first:
+      213: 3072947607453694436
+    second: PokemonAttacks3_157
+  - first:
+      213: -7400127034472327030
+    second: PokemonAttacks3_158
+  - first:
+      213: -4782527720185134164
+    second: PokemonAttacks3_159
+  - first:
+      213: 7206698093497858763
+    second: PokemonAttacks3_160
+  - first:
+      213: -6399935370199327648
+    second: PokemonAttacks3_161
+  - first:
+      213: -8498663639265651718
+    second: PokemonAttacks3_162
+  - first:
+      213: 6018834948387355305
+    second: PokemonAttacks3_163
+  - first:
+      213: -7665057496336816455
+    second: PokemonAttacks3_164
+  - first:
+      213: -1354026477822799683
+    second: PokemonAttacks3_165
+  - first:
+      213: 213526020584995665
+    second: PokemonAttacks3_166
+  - first:
+      213: 9052963522007643083
+    second: PokemonAttacks3_167
+  - first:
+      213: -8132962277844995534
+    second: PokemonAttacks3_168
+  - first:
+      213: -5199312956103420621
+    second: PokemonAttacks3_169
+  - first:
+      213: -3138345421126507472
+    second: PokemonAttacks3_170
+  - first:
+      213: 7334767078911534470
+    second: PokemonAttacks3_171
+  - first:
+      213: 5253547929213818718
+    second: PokemonAttacks3_172
+  - first:
+      213: 3388231724376239704
+    second: PokemonAttacks3_173
+  - first:
+      213: -2744308051358553697
+    second: PokemonAttacks3_174
+  - first:
+      213: -1367146629969034719
+    second: PokemonAttacks3_175
+  - first:
+      213: 6105256640191079040
+    second: PokemonAttacks3_176
+  - first:
+      213: -9057385135459394588
+    second: PokemonAttacks3_177
+  - first:
+      213: -8656176048572631435
+    second: PokemonAttacks3_178
+  - first:
+      213: -1795880095442317824
+    second: PokemonAttacks3_179
+  - first:
+      213: 8641431528488904828
+    second: PokemonAttacks3_180
+  - first:
+      213: -2039082720310291984
+    second: PokemonAttacks3_181
+  - first:
+      213: -2811689763990300078
+    second: PokemonAttacks3_182
+  - first:
+      213: -8156652348483985923
+    second: PokemonAttacks3_183
+  - first:
+      213: 3033004141041906137
+    second: PokemonAttacks3_184
+  - first:
+      213: 436727162324744862
+    second: PokemonAttacks3_185
+  - first:
+      213: -5526457984566207932
+    second: PokemonAttacks3_186
+  - first:
+      213: 2889485852184174316
+    second: PokemonAttacks3_187
+  - first:
+      213: -8686489621847938154
+    second: PokemonAttacks3_188
+  - first:
+      213: -280167339813070457
+    second: PokemonAttacks3_189
+  - first:
+      213: 7646699427800596277
+    second: PokemonAttacks3_190
+  - first:
+      213: 8907250310636168775
+    second: PokemonAttacks3_191
+  - first:
+      213: -575469066104003485
+    second: PokemonAttacks3_192
+  - first:
+      213: 4640719952169543681
+    second: PokemonAttacks3_193
+  - first:
+      213: 667995652014764839
+    second: PokemonAttacks3_194
+  - first:
+      213: -7803064907717188672
+    second: PokemonAttacks3_195
+  - first:
+      213: 8066732938169356660
+    second: PokemonAttacks3_196
+  - first:
+      213: 633125578586493699
+    second: PokemonAttacks3_197
+  - first:
+      213: -2046935887864678688
+    second: PokemonAttacks3_198
+  - first:
+      213: -6857338428868363358
+    second: PokemonAttacks3_199
+  - first:
+      213: 8709000784127008229
+    second: PokemonAttacks3_200
+  - first:
+      213: -972635563199825136
+    second: PokemonAttacks3_201
+  - first:
+      213: -5273469250954924770
+    second: PokemonAttacks3_202
+  - first:
+      213: 2217609801973328678
+    second: PokemonAttacks3_203
+  - first:
+      213: -3779716628678079992
+    second: PokemonAttacks3_204
+  - first:
+      213: 2638408438528348268
+    second: PokemonAttacks3_205
+  - first:
+      213: 1641087771077107206
+    second: PokemonAttacks3_206
+  - first:
+      213: -1487018727370298190
+    second: PokemonAttacks3_207
+  - first:
+      213: -4479129006087655106
+    second: PokemonAttacks3_208
+  - first:
+      213: -354674304150015590
+    second: PokemonAttacks3_209
+  - first:
+      213: -7738030688699581557
+    second: PokemonAttacks3_210
+  - first:
+      213: 977458905394811062
+    second: PokemonAttacks3_211
+  - first:
+      213: -2565646286940958216
+    second: PokemonAttacks3_212
+  - first:
+      213: -1421763963056597007
+    second: PokemonAttacks3_213
+  - first:
+      213: -998796166676163739
+    second: PokemonAttacks3_214
+  - first:
+      213: -8003190524578062671
+    second: PokemonAttacks3_215
+  - first:
+      213: -8580131997999993195
+    second: PokemonAttacks3_216
+  - first:
+      213: 4951110159399638284
+    second: PokemonAttacks3_217
+  - first:
+      213: 8676637102093609201
+    second: PokemonAttacks3_218
+  - first:
+      213: 6528048382535881792
+    second: PokemonAttacks3_219
+  - first:
+      213: -7231644311219895923
+    second: PokemonAttacks3_220
+  - first:
+      213: -1103090566231182399
+    second: PokemonAttacks3_221
+  - first:
+      213: 5342418279803057594
+    second: PokemonAttacks3_222
+  - first:
+      213: -7849336030489877792
+    second: PokemonAttacks3_223
+  - first:
+      213: 8363929238994500840
+    second: PokemonAttacks3_224
+  - first:
+      213: 3738784530244261581
+    second: PokemonAttacks3_225
+  - first:
+      213: 8421023659683132546
+    second: PokemonAttacks3_226
+  - first:
+      213: -6221864745982650882
+    second: PokemonAttacks3_227
+  - first:
+      213: 9059655347444798637
+    second: PokemonAttacks3_228
+  - first:
+      213: -400166385634311960
+    second: PokemonAttacks3_229
+  - first:
+      213: -8145371618446061897
+    second: PokemonAttacks3_230
+  - first:
+      213: -1376608548449178743
+    second: PokemonAttacks3_231
+  - first:
+      213: 4727032820452739174
+    second: PokemonAttacks3_232
+  - first:
+      213: 5077859433462906941
+    second: PokemonAttacks3_233
+  - first:
+      213: 2515405533645310945
+    second: PokemonAttacks3_234
+  - first:
+      213: -8409560693063897489
+    second: PokemonAttacks3_235
+  - first:
+      213: -417446652506360344
+    second: PokemonAttacks3_236
+  - first:
+      213: -4033627709324652090
+    second: PokemonAttacks3_237
+  - first:
+      213: 248297755666765150
+    second: PokemonAttacks3_238
+  - first:
+      213: -8274205146271256412
+    second: PokemonAttacks3_239
+  - first:
+      213: -6233296354595958858
+    second: PokemonAttacks3_240
+  - first:
+      213: -398246944384075277
+    second: PokemonAttacks3_241
+  - first:
+      213: -7629473556180863375
+    second: PokemonAttacks3_242
+  - first:
+      213: 2274595361248071949
+    second: PokemonAttacks3_243
+  - first:
+      213: -2207849013452463247
+    second: PokemonAttacks3_244
+  - first:
+      213: -3581699588835300686
+    second: PokemonAttacks3_245
+  - first:
+      213: 2425105611892316081
+    second: PokemonAttacks3_246
+  - first:
+      213: 6796257103877281331
+    second: PokemonAttacks3_247
+  - first:
+      213: 6088067150481538865
+    second: PokemonAttacks3_248
+  - first:
+      213: -8543778016019331796
+    second: PokemonAttacks3_249
+  - first:
+      213: -5103779406986268948
+    second: PokemonAttacks3_250
+  - first:
+      213: 2874450791742443290
+    second: PokemonAttacks3_251
+  - first:
+      213: -517181083012302643
+    second: PokemonAttacks3_252
+  - first:
+      213: -4928893146209430866
+    second: PokemonAttacks3_253
+  - first:
+      213: -3809863787528825711
+    second: PokemonAttacks3_254
+  - first:
+      213: 5779915824085334767
+    second: PokemonAttacks3_255
+  - first:
+      213: -784888947489421396
+    second: PokemonAttacks3_256
+  - first:
+      213: -2564450125228517008
+    second: PokemonAttacks3_257
+  - first:
+      213: -6736066034604615815
+    second: PokemonAttacks3_258
+  - first:
+      213: 5702347426430208263
+    second: PokemonAttacks3_259
+  - first:
+      213: -8430381963345516667
+    second: PokemonAttacks3_260
+  - first:
+      213: 5823215592491351853
+    second: PokemonAttacks3_261
+  - first:
+      213: -2067372829147498311
+    second: PokemonAttacks3_262
+  - first:
+      213: -3430984003881941869
+    second: PokemonAttacks3_263
+  - first:
+      213: -3409204383156233889
+    second: PokemonAttacks3_264
+  - first:
+      213: -1416813308081099965
+    second: PokemonAttacks3_265
+  - first:
+      213: -4467173009959741127
+    second: PokemonAttacks3_266
+  - first:
+      213: 8823591202927517716
+    second: PokemonAttacks3_267
+  - first:
+      213: 1719427219185734325
+    second: PokemonAttacks3_268
+  - first:
+      213: 2971196010010814567
+    second: PokemonAttacks3_269
+  - first:
+      213: -7580698468166487602
+    second: PokemonAttacks3_270
+  - first:
+      213: -6794679642434840174
+    second: PokemonAttacks3_271
+  - first:
+      213: -3569938168980022148
+    second: PokemonAttacks3_272
+  - first:
+      213: 7115706108058130896
+    second: PokemonAttacks3_273
+  - first:
+      213: 4299487306897200177
+    second: PokemonAttacks3_274
+  - first:
+      213: -7482632763237686845
+    second: PokemonAttacks3_275
+  - first:
+      213: 5106836971350466834
+    second: PokemonAttacks3_276
+  - first:
+      213: -2479104801972147865
+    second: PokemonAttacks3_277
+  - first:
+      213: -9055711118995972551
+    second: PokemonAttacks3_278
+  - first:
+      213: 8290786796967885217
+    second: PokemonAttacks3_279
+  - first:
+      213: -495017527649761776
+    second: PokemonAttacks3_280
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PokemonAttacks3_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c727ae530bcc7f0800000000000000
+      internalID: -590903705479250841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 480
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d164dab7bb69fa80800000000000000
+      internalID: -8432590390416875053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 480
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ec626f0fff3f70800000000000000
+      internalID: 9169327807890516215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 480
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b03538745d3a750800000000000000
+      internalID: 6315125605626219286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 480
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795e4a7e7b65d120800000000000000
+      internalID: 2437972964252998014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 477
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22d7fcd19fa3c8f0800000000000000
+      internalID: -521380090832498129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 478
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fc6ff318b010b50800000000000000
+      internalID: 6557535182179979080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 477
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862bdb888b829c9e0800000000000000
+      internalID: -1600703419520273816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 476
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d7eda0690465710800000000000000
+      internalID: 1681602524041084285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 477
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7066c97b98c2ec80800000000000000
+      internalID: -8294846993574502277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 478
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28521aed04ab048a0800000000000000
+      internalID: -6322849089052400254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 477
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bd9707cbbbc9630800000000000000
+      internalID: 3935226592430250769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 476
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842b6fb179cdd96e0800000000000000
+      internalID: -1829063332075228600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 459
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05867667047d89dd0800000000000000
+      internalID: -2478994923003090864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 460
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692402f2eef4f77a0800000000000000
+      internalID: -6377290662921878890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 460
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19e06ab9f319af0800000000000000
+      internalID: -391461754866069076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_16
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 457
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed132426127fa3c0800000000000000
+      internalID: -4346129675968111127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e22f31b04730160800000000000000
+      internalID: 6990558637537242628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 447
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e3b5b2639cef710800000000000000
+      internalID: 1729040541449666174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 447
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546a3aaac0b561aa0800000000000000
+      internalID: -6190660527813581243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 447
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94784903c2b197440800000000000000
+      internalID: 4934004743368640329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 447
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474180e0ea2d85760800000000000000
+      internalID: 7446933628858668148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 442
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655b9fc6317c43990800000000000000
+      internalID: -7407076600871013034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 470
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247e6b4068a4df160800000000000000
+      internalID: 7060881730251974466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 453
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1346e0ecc35820420800000000000000
+      internalID: 2594782831520408625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_25
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 462
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cb5e38200cb3320800000000000000
+      internalID: 2538833931988745285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 462
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54d4fd742eb276e0800000000000000
+      internalID: -1841200233699814307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_27
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 459
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37c816b397ddede0800000000000000
+      internalID: -1302147687824963781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 464
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa48f5f707b2f330800000000000000
+      internalID: 3743255485117647535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 446
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0034dcdfba18340800000000000000
+      internalID: 4864358179095642323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_30
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 450
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e50d666690c4d20800000000000000
+      internalID: 3263994165353012832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 452
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec7757e517c4d7d0800000000000000
+      internalID: -2894469763602875159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 450
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66007daf635d2310800000000000000
+      internalID: 1381852399788885615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_33
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 452
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fbe3fa76550a190800000000000000
+      internalID: -7953263038126178412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_34
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 413
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c55e1f8510b3b120800000000000000
+      internalID: 2428478230724761024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_35
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 416
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a472f020b784d0800000000000000
+      internalID: -3132341360259719024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 419
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800dd11dda26e57b0800000000000000
+      internalID: -5233637218280681464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_37
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 420
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f8a2d7c6ea31a80800000000000000
+      internalID: -8497256290938351846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_38
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 428
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12bce3974e339140800000000000000
+      internalID: 4725188911187145245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f8d8f887934c10800000000000000
+      internalID: 2036638071047910840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 414
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59ed7199327a9040800000000000000
+      internalID: 4655158756420479325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 414
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a435587bbee3bb0800000000000000
+      internalID: -4954263366612596111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 414
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49419d796cd36f880800000000000000
+      internalID: -8577600517120125804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 414
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a53eb3bb1c62e0800000000000000
+      internalID: -2131298064848805402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 414
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5569f40e5580172e0800000000000000
+      internalID: -2129911983840979371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_45
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 412
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebe3718089553f00800000000000000
+      internalID: 1095880492797127648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_46
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 411
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12102d1ba3da9680800000000000000
+      internalID: -8747446594332257766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_47
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 410
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f39870ad9ffef10800000000000000
+      internalID: 2301332649434234672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 363
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d48a0faffff3e680800000000000000
+      internalID: -8726850179295443759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_49
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 379
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9ab33fd59195110800000000000000
+      internalID: 1250058262875449837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 380
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e13ee7e1cbda40800000000000000
+      internalID: 5394118180584154728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_51
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 380
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c092ddedb46b1620800000000000000
+      internalID: 2745899164714045636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_52
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 381
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e8f0871dccd740800000000000000
+      internalID: 5178239172400964158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_53
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 379
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a64cff93a0a7d770800000000000000
+      internalID: 8635547435130439329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_54
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 393
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdbc7248ba4248c0800000000000000
+      internalID: -4016565762411151886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_55
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 387
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e329d091dec77cf0800000000000000
+      internalID: -254507454449507355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_56
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 395
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a20491e185b3f30800000000000000
+      internalID: 4556332334311287432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_57
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 395
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4259202b49feb0800000000000000
+      internalID: -4685631335797994151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_58
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 384
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb973be688b458fd0800000000000000
+      internalID: -2340381382004213316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_59
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 382
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097238cf73c319c60800000000000000
+      internalID: 7823100238876583824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 367
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e948a38a126773f90800000000000000
+      internalID: -6973975611031518050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 360
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a438cebe6088bd000800000000000000
+      internalID: 61792583208960842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 356
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16527b41c60d5ff0800000000000000
+      internalID: -45872993939597798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_63
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 364
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b898b1c12f13e660800000000000000
+      internalID: 7413803641426450611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 387
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76672d5dfc138aba0800000000000000
+      internalID: -6077552928421153177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 390
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd226dedd24bbc0f0800000000000000
+      internalID: -1095583975229480228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 384
+        width: 127
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2575d2fc070ebe540800000000000000
+      internalID: 5038367383260845906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_67
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 387
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b95e531b11134520800000000000000
+      internalID: 2685008610829687216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_68
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 390
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aba36aa27110370800000000000000
+      internalID: 8286930261283355282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_69
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 383
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1c5df89c93eec90800000000000000
+      internalID: -7138704821471297044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_70
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 383
+        width: 29
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f355818214151ebf0800000000000000
+      internalID: -296866760142334657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_71
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 369
+        width: 89
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04af44bea3c5ad680800000000000000
+      internalID: -8729563519579260352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_72
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 376
+        width: 29
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b54bc1e5153f9e20800000000000000
+      internalID: 3359462215140459959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_73
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 367
+        width: 86
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47234257196d71c0800000000000000
+      internalID: -4504328503415330996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 332
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f87a0284b54c7a30800000000000000
+      internalID: 4214319992890095856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_75
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 325
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8393cb425c3180800000000000000
+      internalID: -9134335458856957080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_76
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 348
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8c88e388de150d0800000000000000
+      internalID: -3435703871286490925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_77
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 353
+        width: 85
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a8d4c6d3cfeb60800000000000000
+      internalID: 7777650408685085594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_78
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 348
+        width: 90
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c40a1fb808efbd30800000000000000
+      internalID: 4449530081128875201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_79
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 347
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da31eec49ccaa91a0800000000000000
+      internalID: -6801934306610637907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_80
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 347
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375b080b086830cc0800000000000000
+      internalID: -3746002577766959757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5c6c3d923a09770800000000000000
+      internalID: 8615565487201764831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 331
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf579306265705d0800000000000000
+      internalID: -3096411497524928575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_83
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 332
+        width: 91
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4587644a6eed28c0800000000000000
+      internalID: -4022296751990405810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 340
+        width: 91
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120379843928845e0800000000000000
+      internalID: -1925145271611215839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_85
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 331
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997b9324f6696d6c0800000000000000
+      internalID: -4118939404587124839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 332
+        width: 80
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103152e17a038460800000000000000
+      internalID: 7242644109986443291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_87
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 321
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480b9356f937a4d0800000000000000
+      internalID: -3123464086430742453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_88
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb738edda428df00800000000000000
+      internalID: 1141702834719521736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_89
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 317
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f43bf802cbb6ea40800000000000000
+      internalID: 5397207645498848501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_90
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 324
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb387a4979c78df0800000000000000
+      internalID: -177952137480225864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_91
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 324
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3b1d92cff3f4150800000000000000
+      internalID: 5858971992498222077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_92
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 321
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77c428c95ad70d90800000000000000
+      internalID: -7131491405773092995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_93
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 324
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b40a322bef5a5e90800000000000000
+      internalID: -7036206004316797768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_94
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 327
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe82186738498aeb0800000000000000
+      internalID: -4708350118066050833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_95
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 309
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8126846c3358070d0800000000000000
+      internalID: -3427092859012488680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_96
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 319
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcf1de3d9cf63640800000000000000
+      internalID: 5059508983691345113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 299
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62ad9d6dd24d660800000000000000
+      internalID: 7409597687732512425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_98
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 292
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc1ce919a23c1b0800000000000000
+      internalID: -5637615503615602806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa98056a18a4e770800000000000000
+      internalID: 8639214816521132719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_100
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 289
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed3c13689bc1fcd0800000000000000
+      internalID: -2526014060619874845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_101
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 296
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be651d46ae904a120800000000000000
+      internalID: 2424073401750607595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_102
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 319
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e39af3921a085e0800000000000000
+      internalID: -1909349043471303049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_103
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 322
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9903209d3bff410800000000000000
+      internalID: 1513125744445790710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_104
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 308
+        width: 93
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cf8b9a16b4c2390800000000000000
+      internalID: -7841809968327492474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_105
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 316
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6bb0b1197585f80800000000000000
+      internalID: -8117642047599692072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_106
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 314
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b94d99663b76e1a0800000000000000
+      internalID: -6780596715329336911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_107
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 311
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25346e52d88d035d0800000000000000
+      internalID: -3084727644010953902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_108
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 311
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf95e59de6eb59d0800000000000000
+      internalID: -2784378036502028369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_109
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 307
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff61ed4503f43120800000000000000
+      internalID: 2392804506147581950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_110
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 308
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5996f7205c688d260800000000000000
+      internalID: 7122590991395023253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_111
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 306
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae4138618e361410800000000000000
+      internalID: 1447413055765958317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_112
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 308
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77bbfff0d66dea70800000000000000
+      internalID: 8857849089941550974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_113
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567929971e916de60800000000000000
+      internalID: 7986599445386139493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_114
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 273
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc27be5f19bec23e0800000000000000
+      internalID: -2077026315996007733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_115
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 273
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc9d5818b0c5ddf0800000000000000
+      internalID: -156006715159110412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_116
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 273
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a2b1710c565950800000000000000
+      internalID: 6437433878644958465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_117
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 298
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d20b5d390e41f70800000000000000
+      internalID: 9157190867900968272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_118
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 299
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5dce131ae0acc0800000000000000
+      internalID: -3701701525856494781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_119
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 291
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4be18cb909477f0800000000000000
+      internalID: -615708250291129101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_120
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 275
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5ab2cdb084e9b50800000000000000
+      internalID: 6601793319547414011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_121
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60faa7d0095b00d50800000000000000
+      internalID: 6701555875833360134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_122
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 273
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aefec42321dd4e60800000000000000
+      internalID: 7948238866250399399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_123
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 264
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdabeca273f42560800000000000000
+      internalID: 7288217770845253045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_124
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 263
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023eaea6c983ad260800000000000000
+      internalID: 7123068005099692832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_125
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 280
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231dca06bc80e230800000000000000
+      internalID: 3666084810172732204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_126
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72251fa81dfd3510800000000000000
+      internalID: 1530657730834276990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_127
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5acfdd136715900800000000000000
+      internalID: 671447776004711900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_128
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6928849a3210f50800000000000000
+      internalID: 6845792118552827624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_129
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76bba51954b1c550800000000000000
+      internalID: 6179418458437695101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_130
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 286
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bf83002e798db10800000000000000
+      internalID: 2006520630915693400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_131
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 263
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e8b2c97f6f27950800000000000000
+      internalID: 6445485560058056293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_132
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c95cde4c7fcc0b0800000000000000
+      internalID: -5706914202610459510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_133
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c5a1dcdf9f55b70800000000000000
+      internalID: 8887284308148640917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_134
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 288
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409ea2b8588f6cb10800000000000000
+      internalID: 2001560336861948164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_135
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 291
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54d3cec5a8104340800000000000000
+      internalID: 4845900299468264541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_136
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 290
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b288437e48eb230800000000000000
+      internalID: 3656506076025072505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_137
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 277
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e873301fe05290800000000000000
+      internalID: -7903554493173145098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_138
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 286
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d096ef1ada21ad0800000000000000
+      internalID: -2732931112590832233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_139
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 286
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d5fd50adccec90800000000000000
+      internalID: -7139105220634226478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_140
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 283
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2351aab0c01a0b670800000000000000
+      internalID: 8552512765483947314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_141
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 276
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3ac73937e602220800000000000000
+      internalID: 2459086839219004347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_142
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 276
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01384087c4168a3a0800000000000000
+      internalID: -6653961468380937456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_143
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 275
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4406560776de24ae0800000000000000
+      internalID: -1566428691848404924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_144
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 260
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c12708a6441d080800000000000000
+      internalID: -9164468542510064522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_145
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 263
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa9cbe7540fd220800000000000000
+      internalID: 2512731892760554149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_146
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 240
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c4808b90454a9a0800000000000000
+      internalID: -6222756384400192419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_147
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 240
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7771455d1dbd110800000000000000
+      internalID: 1286852832713471958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_148
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 240
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3a71f19f18f36e0800000000000000
+      internalID: -1855621614484872193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_149
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 240
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d437bb04ccfd83f0800000000000000
+      internalID: -896782831836515116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_150
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 240
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0585d8bb4085a19b0800000000000000
+      internalID: -5108674049948690352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_151
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 240
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca55e59aa923b8a0800000000000000
+      internalID: -6290638441870435639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_152
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 240
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77439553a89bff170800000000000000
+      internalID: 8214488248598738039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_153
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 216
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2aafc8472be07b0800000000000000
+      internalID: -5256067501443603796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_154
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 215
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a70816223f4540800000000000000
+      internalID: 4994265650970470646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_155
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 241
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cffccb4ff8103830800000000000000
+      internalID: 4048763549773529030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_156
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 240
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ddcd9d8b516d90800000000000000
+      internalID: -7106298073217903638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_157
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 233
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9f9ab519d45aa20800000000000000
+      internalID: 3072947607453694436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_158
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 232
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8813817ba77d4990800000000000000
+      internalID: -7400127034472327030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_159
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 230
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca308ed906c01adb0800000000000000
+      internalID: -4782527720185134164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_160
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 229
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcabc6abbb5530460800000000000000
+      internalID: 7206698093497858763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_161
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 239
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c9fc960bcde27a0800000000000000
+      internalID: -6399935370199327648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_162
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3da0ca27eae0a80800000000000000
+      internalID: -8498663639265651718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_163
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 235
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aab5541f72378350800000000000000
+      internalID: 6018834948387355305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_164
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 224
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b626eb71de30a590800000000000000
+      internalID: -7665057496336816455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_165
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 229
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db016e4a718853de0800000000000000
+      internalID: -1354026477822799683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_166
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b754fc8c896f200800000000000000
+      internalID: 213526020584995665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_167
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 175
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3b5ddcb5692ad70800000000000000
+      internalID: 9052963522007643083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_168
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 175
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232b56906e9e12f80800000000000000
+      internalID: -8132962277844995534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_169
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 207
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3359e5fd96458d7b0800000000000000
+      internalID: -5199312956103420621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_170
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 207
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034e747977b5274d0800000000000000
+      internalID: -3138345421126507472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_171
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 207
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68560c80cc35ac560800000000000000
+      internalID: 7334767078911534470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_172
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 207
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e575743d10a58e840800000000000000
+      internalID: 5253547929213818718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_173
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 207
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ea72c3dca650f20800000000000000
+      internalID: 3388231724376239704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_174
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 209
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9967840e524ae9d0800000000000000
+      internalID: -2744308051358553697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_175
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 217
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c2dc226be60de0800000000000000
+      internalID: -1367146629969034719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_176
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 217
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0822f25319a3ab450800000000000000
+      internalID: 6105256640191079040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_177
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb1a071534bd4280800000000000000
+      internalID: -9057385135459394588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_178
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57675970fb51fd780800000000000000
+      internalID: -8656176048572631435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_179
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 152
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e47f37190c317e0800000000000000
+      internalID: -1795880095442317824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_180
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78217ed0388ce770800000000000000
+      internalID: 8641431528488904828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_181
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 185
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f19444c119b3b3e0800000000000000
+      internalID: -2039082720310291984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_182
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a91ce7e0fdaf8d0800000000000000
+      internalID: -2811689763990300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_183
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 195
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd9144a7efbdce80800000000000000
+      internalID: -8156652348483985923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 202
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1771d5235671a20800000000000000
+      internalID: 3033004141041906137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_185
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 200
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a712e4a019f0600800000000000000
+      internalID: 436727162324744862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_186
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 184
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a5fc35eb31e43b0800000000000000
+      internalID: -5526457984566207932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_187
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 192
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee54fac214891820800000000000000
+      internalID: 2889485852184174316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_188
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be2a046b3637780800000000000000
+      internalID: -8686489621847938154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_189
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78996c0f945ac1cf0800000000000000
+      internalID: -280167339813070457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_190
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 178
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fbc3a9d988e1a60800000000000000
+      internalID: 7646699427800596277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_191
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 194
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746e4f207f8ec9b70800000000000000
+      internalID: 8907250310636168775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_192
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 192
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36425afeee58308f0800000000000000
+      internalID: -575469066104003485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_193
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 182
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108222b7536276040800000000000000
+      internalID: 4640719952169543681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_194
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 176
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72378dd9182354900800000000000000
+      internalID: 667995652014764839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_195
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 178
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c363301fc1f5b390800000000000000
+      internalID: -7803064907717188672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_196
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 160
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471178d2edac2ff60800000000000000
+      internalID: 8066732938169356660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_197
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3039cd9fb5059c800800000000000000
+      internalID: 633125578586493699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_198
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 184
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b3d5b7a2d793e0800000000000000
+      internalID: -2046935887864678688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_199
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 150
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab7aaad707d5d0a0800000000000000
+      internalID: -6857338428868363358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_200
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 160
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1d7622169cd870800000000000000
+      internalID: 8709000784127008229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_201
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 135
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bff87cb118082f0800000000000000
+      internalID: -972635563199825136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_202
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 119
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de2e208afd0d6b0800000000000000
+      internalID: -5273469250954924770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_203
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 152
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6b019d5886ce10800000000000000
+      internalID: 2217609801973328678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_204
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 156
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a810480cfbb8bc0800000000000000
+      internalID: -3779716628678079992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_205
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 157
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6010e6fe728d9420800000000000000
+      internalID: 2638408438528348268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_206
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 52
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed94802a056c610800000000000000
+      internalID: 1641087771077107206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_207
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 139
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc6db4985c0d5be0800000000000000
+      internalID: -1487018727370298190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_208
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 150
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e313ff086efe6d1c0800000000000000
+      internalID: -4479129006087655106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_209
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 129
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91fd2a7991f31bf0800000000000000
+      internalID: -354674304150015590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_210
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 135
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7df2261efc9490800000000000000
+      internalID: -7738030688699581557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_211
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 126
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0999612b1a09d00800000000000000
+      internalID: 977458905394811062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_212
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 86
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1959f9b4ef46cd0800000000000000
+      internalID: -2565646286940958216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_213
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 127
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f75f8b5531e44ce0800000000000000
+      internalID: -1421763963056597007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_214
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 119
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563de32ad209322f0800000000000000
+      internalID: -998796166676163739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_215
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be90c0ee94fee090800000000000000
+      internalID: -8003190524578062671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_216
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 139
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e6f35486f3de880800000000000000
+      internalID: -8580131997999993195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_217
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 139
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05d7d63570e5b440800000000000000
+      internalID: 4951110159399638284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_218
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 138
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8a34b397b996870800000000000000
+      internalID: 8676637102093609201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_219
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 116
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0445d95ba69489a50800000000000000
+      internalID: 6528048382535881792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8183c750d904ab90800000000000000
+      internalID: -7231644311219895923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_221
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 130
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b4b479f801b0f0800000000000000
+      internalID: -1103090566231182399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_222
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f631ce15142a40800000000000000
+      internalID: 5342418279803057594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_223
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e9f3c77e811390800000000000000
+      internalID: -7849336030489877792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_224
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec35c03455a21470800000000000000
+      internalID: 8363929238994500840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_225
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 86
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65fe8a8b4d2e330800000000000000
+      internalID: 3738784530244261581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_226
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 129
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284b298e66c7dd470800000000000000
+      internalID: 8421023659683132546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_227
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 115
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef59d277afe77a9a0800000000000000
+      internalID: -6221864745982650882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_228
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 119
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da45ae3d98c5abd70800000000000000
+      internalID: 9059655347444798637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_229
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 53
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0073ddac2527af0800000000000000
+      internalID: -400166385634311960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_230
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 119
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be49f64ba3d5fe80800000000000000
+      internalID: -8145371618446061897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_231
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 119
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98babea91dd45ece0800000000000000
+      internalID: -1376608548449178743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_232
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 88
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668c2b82e4bc99140800000000000000
+      internalID: 4727032820452739174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_233
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 86
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d304ce6404e287640800000000000000
+      internalID: 5077859433462906941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_234
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 105
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0bf2710488e220800000000000000
+      internalID: 2515405533645310945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_235
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 102
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea6dcfa1d3b4b80800000000000000
+      internalID: -8409560693063897489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_236
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 102
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5bea43b7ee43af0800000000000000
+      internalID: -417446652506360344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_237
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 83
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1188d28fca508c0800000000000000
+      internalID: -4033627709324652090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_238
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 37
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e555b054e71227300800000000000000
+      internalID: 248297755666765150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_239
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 39
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0fac1124e1c2d80800000000000000
+      internalID: -8274205146271256412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_240
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 134
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf029cadf1ee79a0800000000000000
+      internalID: -6233296354595958858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_241
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f93a1b9384297af0800000000000000
+      internalID: -398246944384075277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_242
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 18
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1767a9c293aae1690800000000000000
+      internalID: -7629473556180863375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_243
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 20
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0151f20e6cf09f10800000000000000
+      internalID: 2274595361248071949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_244
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 18
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173287b15052c51e0800000000000000
+      internalID: -2207849013452463247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_245
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 53
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba2f4b533f3b4ec0800000000000000
+      internalID: -3581699588835300686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_246
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 42
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d5ab84b4b7a120800000000000000
+      internalID: 2425105611892316081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_247
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 55
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33694dee3d7215e50800000000000000
+      internalID: 6796257103877281331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_248
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 39
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f3d2141d82d7450800000000000000
+      internalID: 6088067150481538865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_249
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 57
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25406b49276e6980800000000000000
+      internalID: -8543778016019331796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_250
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 43
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee21aa9babbb29b0800000000000000
+      internalID: -5103779406986268948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_251
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 47
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f062ef3c914e720800000000000000
+      internalID: 2874450791742443290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_252
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 44
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8ff7e8b8a92d8f0800000000000000
+      internalID: -517181083012302643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_253
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 39
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea254544ccd099bb0800000000000000
+      internalID: -4928893146209430866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_254
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 37
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19458bd1215a02bc0800000000000000
+      internalID: -3809863787528825711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_255
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 46
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaf34691d2663050800000000000000
+      internalID: 5779915824085334767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_256
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 49
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca743c829a38b15f0800000000000000
+      internalID: -784888947489421396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_257
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 40
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795c89b23e396cd0800000000000000
+      internalID: -2564450125228517008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_258
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97751d771afa482a0800000000000000
+      internalID: -6736066034604615815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_259
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 47
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7094c32a5cec22f40800000000000000
+      internalID: 5702347426430208263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_260
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 39
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5872ee93544410b80800000000000000
+      internalID: -8430381963345516667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_261
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f76f88ab730d050800000000000000
+      internalID: 5823215592491351853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_262
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 43
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87e548d573f43e0800000000000000
+      internalID: -2067372829147498311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_263
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 39
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394c1920a32b260d0800000000000000
+      internalID: -3430984003881941869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_264
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59944f1da210b0d0800000000000000
+      internalID: -3409204383156233889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_265
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 42
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba7ca8dc7765ce0800000000000000
+      internalID: -1416813308081099965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_266
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 40
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391327c0d96102c0800000000000000
+      internalID: -4467173009959741127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_267
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 45
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410a1cd1371b37a70800000000000000
+      internalID: 8823591202927517716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_268
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 10
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b214b822f1acd710800000000000000
+      internalID: 1719427219185734325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_269
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 37
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a0ce670fcb3920800000000000000
+      internalID: 2971196010010814567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_270
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 39
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1b69f48e2fbc690800000000000000
+      internalID: -7580698468166487602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_271
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 39
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299d71e6dd274b1a0800000000000000
+      internalID: -6794679642434840174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_272
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 39
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c56df4628057ec0800000000000000
+      internalID: -3569938168980022148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_273
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 39
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d1e0310110c260800000000000000
+      internalID: 7115706108058130896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_274
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 39
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13498eb0de8daab30800000000000000
+      internalID: 4299487306897200177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_275
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 39
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1a4828529582890800000000000000
+      internalID: -7482632763237686845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_276
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 10
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112d231b212fd640800000000000000
+      internalID: 5106836971350466834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_277
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 10
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7692c754153789dd0800000000000000
+      internalID: -2479104801972147865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_278
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 10
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e90bb67b6a35280800000000000000
+      internalID: -9055711118995972551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_279
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 16
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f4c55aaace0370800000000000000
+      internalID: 8290786796967885217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonAttacks3_280
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 15
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01608da6e285129f0800000000000000
+      internalID: -495017527649761776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
