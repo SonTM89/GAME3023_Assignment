@@ -154,7 +154,7 @@ TextureImporter:
     second: PokemonAttacks4_49
   - first:
       213: -7123293709102492263
-    second: PokemonAttacks4_50
+    second: Beam6
   - first:
       213: 7454563488395277292
     second: PokemonAttacks4_51
@@ -244,7 +244,7 @@ TextureImporter:
     second: PokemonAttacks4_79
   - first:
       213: -3540493970205841470
-    second: PokemonAttacks4_80
+    second: Beam5
   - first:
       213: -1169725116202240593
     second: PokemonAttacks4_81
@@ -331,7 +331,7 @@ TextureImporter:
     second: PokemonAttacks4_108
   - first:
       213: 5839495348291026622
-    second: PokemonAttacks4_109
+    second: Beam4
   - first:
       213: -7229174620347293886
     second: PokemonAttacks4_110
@@ -382,7 +382,7 @@ TextureImporter:
     second: PokemonAttacks4_125
   - first:
       213: 2443120300983634046
-    second: PokemonAttacks4_126
+    second: Beam3
   - first:
       213: 5093997588682704855
     second: PokemonAttacks4_127
@@ -460,7 +460,7 @@ TextureImporter:
     second: PokemonAttacks4_151
   - first:
       213: -8717745758524503417
-    second: PokemonAttacks4_152
+    second: Beam2
   - first:
       213: 1978233949913897450
     second: PokemonAttacks4_153
@@ -520,7 +520,7 @@ TextureImporter:
     second: PokemonAttacks4_171
   - first:
       213: -4819534130409172264
-    second: PokemonAttacks4_172
+    second: Beam1
   - first:
       213: 3399103538895147174
     second: PokemonAttacks4_173
@@ -3908,7 +3908,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_50
+      name: Beam6
       rect:
         serializedVersion: 2
         x: 120
@@ -4538,7 +4538,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_80
+      name: Beam5
       rect:
         serializedVersion: 2
         x: 121
@@ -5147,7 +5147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_109
+      name: Beam4
       rect:
         serializedVersion: 2
         x: 120
@@ -5504,7 +5504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_126
+      name: Beam3
       rect:
         serializedVersion: 2
         x: 124
@@ -6050,7 +6050,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_152
+      name: Beam2
       rect:
         serializedVersion: 2
         x: 127
@@ -6470,7 +6470,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_172
+      name: Beam1
       rect:
         serializedVersion: 2
         x: 128
