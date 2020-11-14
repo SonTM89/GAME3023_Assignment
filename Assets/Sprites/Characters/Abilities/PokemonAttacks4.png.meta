@@ -652,7 +652,7 @@ TextureImporter:
     second: PokemonAttacks4_215
   - first:
       213: 3214402530765226336
-    second: PokemonAttacks4_216
+    second: BoneThrow
   - first:
       213: -8069790967802707856
     second: PokemonAttacks4_217
@@ -7394,13 +7394,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_216
+      name: BoneThrow
       rect:
         serializedVersion: 2
         x: 328
         y: 1586
         width: 24
-        height: 35
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
