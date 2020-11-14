@@ -652,7 +652,7 @@ TextureImporter:
     second: PokemonAttacks4_215
   - first:
       213: 3214402530765226336
-    second: BoneThrow
+    second: BoneThrow4
   - first:
       213: -8069790967802707856
     second: PokemonAttacks4_217
@@ -718,7 +718,7 @@ TextureImporter:
     second: PokemonAttacks4_237
   - first:
       213: -1093650535798353455
-    second: PokemonAttacks4_238
+    second: BoneThrow3
   - first:
       213: -7017986270986591153
     second: PokemonAttacks4_239
@@ -802,7 +802,7 @@ TextureImporter:
     second: PokemonAttacks4_265
   - first:
       213: -7576971254901710219
-    second: PokemonAttacks4_266
+    second: BoneThrow2
   - first:
       213: 7077463443078273556
     second: PokemonAttacks4_267
@@ -871,7 +871,7 @@ TextureImporter:
     second: PokemonAttacks4_288
   - first:
       213: 4067971242834911149
-    second: PokemonAttacks4_289
+    second: BoneThrow1
   - first:
       213: 7786672613489194146
     second: PokemonAttacks4_290
@@ -7394,7 +7394,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BoneThrow
+      name: BoneThrow4
       rect:
         serializedVersion: 2
         x: 328
@@ -7856,7 +7856,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_238
+      name: BoneThrow3
       rect:
         serializedVersion: 2
         x: 327
@@ -8444,7 +8444,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_266
+      name: BoneThrow2
       rect:
         serializedVersion: 2
         x: 326
@@ -8927,7 +8927,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PokemonAttacks4_289
+      name: BoneThrow1
       rect:
         serializedVersion: 2
         x: 328
