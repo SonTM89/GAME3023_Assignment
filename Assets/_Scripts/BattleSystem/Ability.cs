@@ -12,6 +12,9 @@ public class Ability : ScriptableObject
     List<Effect> effects;
 
     [SerializeField]
+    public AnimationClip animations;
+
+    [SerializeField]
     int abilityID;
     public int AbilityID
     {

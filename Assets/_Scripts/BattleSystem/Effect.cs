@@ -13,5 +13,6 @@ public abstract class Effect : ScriptableObject
         get { return animationDuration; }
     }
 
-    public abstract IEnumerator TriggerEffect(IBattleCharacter _caster, IBattleCharacter _target, Ability ability, TMP_Text dialogue);
+    public abstract IEnumerator TriggerEffect(IBattleCharacter _caster, IBattleCharacter _target,
+        Ability ability, TMP_Text dialogue);
 }
