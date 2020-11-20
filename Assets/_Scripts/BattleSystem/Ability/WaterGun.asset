@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   effects:
   - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  abilityAnimation: {fileID: 3520396193803313049, guid: 1b3cffe51cfd08148bed5abb54fe9ff8, type: 3}
+  characterAnimationTrigger: 
   abilityID: 0
   abilityName: WATERGUN
   damage: 40

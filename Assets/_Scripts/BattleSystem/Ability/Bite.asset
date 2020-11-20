@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   effects:
   - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  abilityAnimation: {fileID: 3958084701276706647, guid: bc012685aa2b12a4087d179f70c1d943, type: 3}
+  characterAnimationTrigger: MoveCloser
   abilityID: 0
   abilityName: BITE
   damage: 60

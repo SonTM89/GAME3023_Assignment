@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   effects:
   - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  abilityAnimation: {fileID: 5969679505268720041, guid: 8714bf02034603648833c68f4b85577d, type: 3}
+  characterAnimationTrigger: 
   abilityID: 0
   abilityName: THUNDER
   damage: 150

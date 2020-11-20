@@ -11,8 +11,8 @@ public class Ability : ScriptableObject
     [SerializeField]
     List<Effect> effects;
 
-    [SerializeField]
-    public AnimationClip animations;
+    public GameObject abilityAnimation;
+    public string characterAnimationTrigger = "";
 
     [SerializeField]
     int abilityID;

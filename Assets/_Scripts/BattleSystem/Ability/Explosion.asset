@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   effects:
   - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  abilityAnimation: {fileID: 8976357080600081941, guid: d29066080de88d14b8eeacc7bf3a2d11, type: 3}
+  characterAnimationTrigger: 
   abilityID: 0
   abilityName: EXPLOSION
   damage: 135

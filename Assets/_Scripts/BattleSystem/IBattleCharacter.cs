@@ -33,10 +33,10 @@ public abstract class IBattleCharacter : MonoBehaviour
 
     [SerializeField]
     string characterName;
-    public string CharacterName
-    {
-        get { return characterName; }
-    }
+    public string CharacterName { get { return characterName; }}
+
+    [SerializeField]
+    public GameObject character;
 
     public Ability[] Abilities
     {

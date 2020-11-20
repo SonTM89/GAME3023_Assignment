@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   effects:
   - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  abilityAnimation: {fileID: 3800895861172047154, guid: 5fdc0278dcf21a74e9795c534c9696d3, type: 3}
+  characterAnimationTrigger: 
   abilityID: 0
   abilityName: OVERHEAT
   damage: 120
