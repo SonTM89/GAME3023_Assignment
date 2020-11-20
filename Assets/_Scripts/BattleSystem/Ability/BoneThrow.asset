@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a147463007798f4fb9c43680d2297e3, type: 3}
+  m_Name: BoneThrow
+  m_EditorClassIdentifier: 
+  effects: []
+  abilityID: 0
+  abilityName: BoneThrow
+  damage: 0
+  damageType: 0
+  abilityCost: 0
+  abilityPriority: 0
+  onAbilityUse:
+    m_PersistentCalls:
+      m_Calls: []
