@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a147463007798f4fb9c43680d2297e3, type: 3}
   m_Name: Fireblast
   m_EditorClassIdentifier: 
-  effects: []
+  effects:
+  - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
   abilityID: 0
-  abilityName: 
-  damage: 0
-  damageType: 0
-  abilityType: 0
-  abilityCost: 0
+  abilityName: FIREBLAST
+  damage: 120
+  damageType: 2
+  abilityCost: 15
   abilityPriority: 0
   onAbilityUse:
     m_PersistentCalls:

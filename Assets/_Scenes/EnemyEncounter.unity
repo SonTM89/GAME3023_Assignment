@@ -537,10 +537,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   abilities:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 4b40f2de09cac3647975e524b75b0ea6, type: 2}
+  - {fileID: 11400000, guid: e09138871dfa70841862db05fbd70f3d, type: 2}
+  - {fileID: 11400000, guid: dcc65f4074aa65d42b861e9002b7dce8, type: 2}
+  - {fileID: 11400000, guid: 00acc43d0f27c1c4c971e1fd07812064, type: 2}
   attack: 100
   spAttack: 100
   defense: 100
@@ -24658,6 +24658,62 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &847818436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 847818438}
+  - component: {fileID: 847818437}
+  m_Layer: 0
+  m_Name: BattleSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &847818437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 847818436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b1df24b5bf6df47bfb7d44c888e04a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allAbilities: {fileID: 11400000, guid: eadd0ecf264e2c14dbf62cf92e5ea7ac, type: 2}
+  abilityButtons:
+  - {fileID: 4004842879365639021}
+  - {fileID: 4004842878808638788}
+  - {fileID: 4004842879278181509}
+  - {fileID: 4004842879359249766}
+  playerPassButton: {fileID: 4004842879332745598}
+  playerRunButton: {fileID: 4004842879540845855}
+  player: {fileID: 1948728284}
+  enemy: {fileID: 618588260}
+  dialogue: {fileID: 4004842879315946794}
+  abilityPanel: {fileID: 4004842878659270253}
+  optionsPanel: {fileID: 4004842879385027589}
+--- !u!4 &847818438
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 847818436}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 335.4113, y: 164.33058, z: -1708.2723}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &928173298
 GameObject:
   m_ObjectHideFlags: 0
@@ -26433,10 +26489,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   abilities:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 2e935bdd15965b741b0b884f6165fd3c, type: 2}
+  - {fileID: 11400000, guid: 7dfb593c3b04b3647992f502888ef3d9, type: 2}
+  - {fileID: 11400000, guid: efe507795ad1d164cad7f79e0036b289, type: 2}
+  - {fileID: 11400000, guid: a8cb1649bbf243147ace8c11a562517f, type: 2}
   attack: 100
   spAttack: 100
   defense: 100
@@ -28286,7 +28342,6 @@ GameObject:
   - component: {fileID: 4004842879332745596}
   - component: {fileID: 4004842879332745597}
   - component: {fileID: 4004842879332745598}
-  - component: {fileID: 4004842879332745599}
   m_Layer: 5
   m_Name: Option2
   m_TagString: Untagged
@@ -28375,18 +28430,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &4004842879332745599
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4004842879332745593}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50153cf904b177e4691a38e7eddbadda, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &4004842879359249760
 RectTransform:
   m_ObjectHideFlags: 0

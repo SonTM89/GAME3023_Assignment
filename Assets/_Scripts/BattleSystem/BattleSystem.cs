@@ -39,8 +39,6 @@ public class BattleSystem : MonoBehaviour
     List<IBattleCharacter> attackOrder;
     List<IBattleCharacter> targetOrder;
 
-    public UnityEvent onTurnStart = new UnityEvent();
-
     // Start is called before the first frame update
     void Start()
     {
@@ -67,8 +65,8 @@ public class BattleSystem : MonoBehaviour
         }
 
         // Separated the Run and Pass from "Abilities" but still treating them as abilities to unify them
-        playerRunButton.onClick.AddListener(() => { allAbilities.GetAbility(3).SelectAbility(player, enemy); });
-        playerPassButton.onClick.AddListener(() => { allAbilities.GetAbility(4).SelectAbility(player, enemy); });
+        playerRunButton.onClick.AddListener(() => { allAbilities.GetAbility(allAbilities.NumberOfAbilities() - 1).SelectAbility(player, enemy); });
+        playerPassButton.onClick.AddListener(() => { allAbilities.GetAbility(allAbilities.NumberOfAbilities() - 2).SelectAbility(player, enemy); });
 
         selectedAbilities = new List<Ability>();
         attackOrder = new List<IBattleCharacter>();

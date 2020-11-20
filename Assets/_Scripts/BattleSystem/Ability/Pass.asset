@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8a147463007798f4fb9c43680d2297e3, type: 3}
-  m_Name: BoneThrow
+  m_Name: Pass
   m_EditorClassIdentifier: 
   effects:
-  - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  - {fileID: 11400000, guid: 52bd058b2f11da547888811529c94164, type: 2}
   abilityID: 0
-  abilityName: BoneThrow
-  damage: 20
-  damageType: 1
-  abilityCost: 5
-  abilityPriority: 0
+  abilityName: PASS
+  damage: 0
+  damageType: 0
+  abilityCost: 0
+  abilityPriority: 9999
   onAbilityUse:
     m_PersistentCalls:
       m_Calls: []
