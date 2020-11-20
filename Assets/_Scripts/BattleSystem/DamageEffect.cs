@@ -7,7 +7,7 @@ using UnityEngine.Events;
 [CreateAssetMenu(fileName = "DamageEffect", menuName = "ScriptableObjects/DamageEffect")]
 public class DamageEffect : Effect
 {
-    public UnityEvent<GameObject> playAnimation;
+    public UnityEvent<GameObject, int> playAnimation;
     public UnityEvent<int, IBattleCharacter, Ability> onDamageToTarget;
 
     public override IEnumerator TriggerEffect(IBattleCharacter _caster, IBattleCharacter _target, Ability ability, TMP_Text dialogue)
@@ -17,7 +17,7 @@ public class DamageEffect : Effect
         yield return new WaitForSeconds(2);
 
         // Play the attack animation
-        playAnimation.Invoke(ability.abilityAnimation);
+        playAnimation.Invoke(ability.abilityAnimation, (int) _caster.direction);
 
         // Play player attack animation
         if (ability.characterAnimationTrigger != "")

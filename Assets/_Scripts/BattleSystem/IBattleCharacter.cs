@@ -38,6 +38,8 @@ public abstract class IBattleCharacter : MonoBehaviour
     [SerializeField]
     public GameObject character;
 
+    public int direction;
+
     public Ability[] Abilities
     {
         get { return abilities; }
