@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class PlayerCharacterController : MonoBehaviour
 {
@@ -10,6 +9,18 @@ public class PlayerCharacterController : MonoBehaviour
 
     [SerializeField]
     float speed = 5;
+
+    private string saveKey;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        saveKey = "PlayerLocation";
+
+        SaveLocation.LoadPlayerLocation();
+
+        Saver.OnSave.AddListener(SaveLocation.SavePlayerLocation);
+    }
 
     // Update is called once per frame
     void Update()
