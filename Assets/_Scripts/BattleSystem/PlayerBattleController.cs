@@ -21,6 +21,8 @@ public class PlayerBattleController : IBattleCharacter
         }
     }
 
+    private int originalHealth;
+
     public override void SelectAction()
     {
     }
@@ -28,6 +30,8 @@ public class PlayerBattleController : IBattleCharacter
     // Start is called before the first frame update
     void Start()
     {
+        originalHealth = health;
+
         // Used to figure out when Struggle becomes active
         foreach (Ability ability in abilities)
         {

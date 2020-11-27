@@ -8,7 +8,7 @@ public class RunAway : MonoBehaviour
     public void Escape()
     {
         PlayerBattleController.Instance.character.SetActive(false);
-
+        PlayerCharacterController.Instance.gameObject.SetActive(true);
         SceneManager.LoadScene("Level1");
     }
 }

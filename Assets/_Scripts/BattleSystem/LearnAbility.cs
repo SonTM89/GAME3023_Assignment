@@ -12,9 +12,9 @@ public class LearnAbility : MonoBehaviour
     public TMP_Text skillNameLabel;
     public RunAway exitBattle;
 
+    public TMP_Text dialogue;
+
     private Ability newAbility;
-
-
 
     // Start is called before the first frame update
     void Start()
@@ -43,11 +43,15 @@ public class LearnAbility : MonoBehaviour
     {
         PlayerBattleController.Instance.Abilities[slotNumber] = newAbility;
 
-        ExitBattle();
+        StartCoroutine(ExitBattle());
     }
 
-    void ExitBattle()
+    IEnumerator ExitBattle()
     {
+        GetComponent<Canvas>().enabled = false;
+        dialogue.text = PlayerBattleController.Instance.CharacterName + " learned " + newAbility.name + "!";
+        yield return new WaitForSeconds(2);
+
         exitBattle.Escape();
     }
 }

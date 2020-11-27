@@ -137,7 +137,21 @@ public class BattleSystem : MonoBehaviour
         // and that it is easier to read and that Ability is kept scriptable
         for (int i = 0; i < abilities.Count; i++)
         {
-            yield return abilities[i].UseAbility(attackOrder[i], targetOrder[i], dialogue);    
+            yield return abilities[i].UseAbility(attackOrder[i], targetOrder[i], dialogue);
+            
+            // Check health
+            if (enemy.Health <= 0)
+            {
+                enemy.gameObject.SetActive(false);
+                StartCoroutine(EndBattle(enemy.CharacterName + " is defeated.  You win!"));
+                yield break;
+            }
+            else if (PlayerBattleController.Instance.Health <= 0)
+            {
+                PlayerBattleController.Instance.character.SetActive(false);
+                StartCoroutine(EndBattle("You lose..."));
+                yield break;
+            }
         }
 
         abilities.Clear();
@@ -149,28 +163,28 @@ public class BattleSystem : MonoBehaviour
 
     private void EndTurnPhase()
     {
-        // Check health
-        if (enemy.Health <= 0)
-        {
-            StartCoroutine(EndBattle());
-        }
-        else
-        {
-            // Next round
-            dialogue.text = "What will you do?";
-            optionsPanel.SetActive(true);
+        // Next round
+        dialogue.text = "What will you do?";
+        optionsPanel.SetActive(true);
 
-            enemy.SelectAction();
-        }
+        enemy.SelectAction();
     }
 
-    IEnumerator EndBattle()
+    IEnumerator EndBattle(string text)
     {
-        dialogue.text = enemy.CharacterName + " is defeated.  You win!";
+        dialogue.text = text;
 
         yield return new WaitForSeconds(1);
 
-        dialogue.gameObject.SetActive(false);
-        learnPanel.SetActive(true);
+        if (PlayerBattleController.Instance.character.activeInHierarchy)
+        {
+            learnPanel.SetActive(true);
+        }
+        else
+        {
+            SaveLocation.LoadPlayerLocation();
+            RunAway runAway = new RunAway();
+            runAway.Escape();
+        }
     }
 }

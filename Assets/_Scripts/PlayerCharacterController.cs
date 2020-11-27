@@ -4,6 +4,22 @@ using UnityEngine;
 
 public class PlayerCharacterController : MonoBehaviour
 {
+    private static PlayerCharacterController instance;
+    public static PlayerCharacterController Instance { get { return instance; } }
+
+    private void Awake()
+    {
+        if (instance != null)
+        {
+            Destroy(gameObject);
+        }
+        else
+        {
+            DontDestroyOnLoad(gameObject);
+            instance = this;
+        }
+    }
+
     [SerializeField]
     Rigidbody2D rb;
 

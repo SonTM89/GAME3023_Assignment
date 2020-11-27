@@ -38,8 +38,8 @@ public class RandomEncounter : MonoBehaviour
         // Random Encounters @ 5% chance
         if (Random.Range(0, 100) < 5)
         {
-            PlayerBattleController playerBattleController = FindObjectOfType<PlayerBattleController>();
-            playerBattleController.character.SetActive(true);
+            PlayerCharacterController.Instance.gameObject.SetActive(false);
+            PlayerBattleController.Instance.character.SetActive(true);
 
             SceneManager.LoadScene("EnemyEncounter");
             Debug.Log("Hit");
