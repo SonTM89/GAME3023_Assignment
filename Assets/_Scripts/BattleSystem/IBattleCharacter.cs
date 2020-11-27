@@ -39,6 +39,7 @@ public abstract class IBattleCharacter : MonoBehaviour
     public GameObject character;
 
     public int direction;
+    protected int minAbilityCost = 9999;
 
     public Ability[] Abilities
     {
@@ -46,4 +47,13 @@ public abstract class IBattleCharacter : MonoBehaviour
     }
 
     public abstract void SelectAction();
+    public void DeductCost(int cost)
+    {
+        mana -= cost;
+    }
+
+    public void DeductHealth(int damage)
+    {
+        health -= damage;
+    }
 }

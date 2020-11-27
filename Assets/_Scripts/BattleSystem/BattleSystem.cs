@@ -35,9 +35,14 @@ public class BattleSystem : MonoBehaviour
     [SerializeField]
     GameObject optionsPanel;
 
+    [SerializeField]
+    GameObject learnPanel;
+
     List<Ability> selectedAbilities;
     List<IBattleCharacter> attackOrder;
     List<IBattleCharacter> targetOrder;
+
+    Ability struggle;
 
     // Start is called before the first frame update
     void Start()
@@ -71,6 +76,8 @@ public class BattleSystem : MonoBehaviour
         selectedAbilities = new List<Ability>();
         attackOrder = new List<IBattleCharacter>();
         targetOrder = new List<IBattleCharacter>();
+
+        struggle = allAbilities.GetAbility(8);
     }
 
     // Happens at the start of the fight to introduce the enemy
@@ -84,8 +91,15 @@ public class BattleSystem : MonoBehaviour
     // Called when ability button is clicked
     void PollAbilities(Ability ability)
     {
+        // Use struggle when not enough mp
+        if (ability.AbilityCost > ability.Caster.Mana)
+        {
+            selectedAbilities.Add(struggle);
+            attackOrder.Add(ability.Caster);
+            targetOrder.Add(ability.Target);
+        }
         // Actions go first - ex: items, run, pass
-        if (selectedAbilities.Count > 0 &&
+        else if (selectedAbilities.Count > 0 &&
             ability.AbilityPriority > selectedAbilities[0].AbilityPriority)
         {
             // Issue with current system is that both player and enemy share the same scriptable object
@@ -94,12 +108,16 @@ public class BattleSystem : MonoBehaviour
             selectedAbilities.Insert(0, ability);
             attackOrder.Insert(0, ability.Caster);
             targetOrder.Insert(0, ability.Target);
+
+            ability.Caster.DeductCost(ability.AbilityCost);
         }
         else
         {
             selectedAbilities.Add(ability);
             attackOrder.Add(ability.Caster);
             targetOrder.Add(ability.Target);
+
+            ability.Caster.DeductCost(ability.AbilityCost);
         }
 
         // If everyone has picked an action, begin attack
@@ -125,13 +143,37 @@ public class BattleSystem : MonoBehaviour
             yield return abilities[i].UseAbility(attackOrder[i], targetOrder[i], dialogue);    
         }
 
-        // Next round
-        dialogue.text = "What will you do?";
-        optionsPanel.SetActive(true);
         abilities.Clear();
         attackOrder.Clear();
         targetOrder.Clear();
 
-        enemy.SelectAction();
+        EndTurnPhase();
+    }
+
+    private void EndTurnPhase()
+    {
+        // Check health
+        if (enemy.Health <= 0)
+        {
+            StartCoroutine(EndBattle());
+        }
+        else
+        {
+            // Next round
+            dialogue.text = "What will you do?";
+            optionsPanel.SetActive(true);
+
+            enemy.SelectAction();
+        }
+    }
+
+    IEnumerator EndBattle()
+    {
+        dialogue.text = enemy.CharacterName + " is defeated.  You win!";
+
+        yield return new WaitForSeconds(1);
+
+        dialogue.gameObject.SetActive(false);
+        learnPanel.SetActive(true);
     }
 }

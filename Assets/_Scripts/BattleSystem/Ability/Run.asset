@@ -14,11 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   effects:
   - {fileID: 11400000, guid: f26042f0c2d7b254da8221ab439eb791, type: 2}
-  abilityID: 0
+  extraEffects: []
+  activationChance: -100
+  abilityAnimation: {fileID: 0}
+  characterAnimationTrigger: 
+  abilityID: 10
   abilityName: RUN
   damage: 0
   damageType: 0
-  abilityCost: 0
+  abilityCost: -9999
   abilityPriority: 9999
   onAbilityUse:
     m_PersistentCalls:

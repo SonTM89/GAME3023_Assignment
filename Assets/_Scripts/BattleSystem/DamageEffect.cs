@@ -9,6 +9,7 @@ public class DamageEffect : Effect
 {
     public UnityEvent<GameObject, int> playAnimation;
     public UnityEvent<int, IBattleCharacter, Ability> onDamageToTarget;
+    public float damageVariance = 10;
 
     public override IEnumerator TriggerEffect(IBattleCharacter _caster, IBattleCharacter _target, Ability ability, TMP_Text dialogue)
     {
@@ -32,7 +33,7 @@ public class DamageEffect : Effect
         yield return new WaitForSeconds(2);
     }
 
-    public int DamageCalculation(IBattleCharacter _caster, IBattleCharacter _target, Ability ability)
+    public virtual int DamageCalculation(IBattleCharacter _caster, IBattleCharacter _target, Ability ability)
     {
         int defenseStat = 1;
         int attackStat = 0;
@@ -49,8 +50,13 @@ public class DamageEffect : Effect
                 break;
         }
 
+        int calculatedDamage = 0;
+
         // Modified damage calculation from Bulbapedia
-        int calculatedDamage = ((((20) + 2) * ability.Damage * (attackStat / defenseStat)) / 50) + 10;
+        float damage = ((((20) + 2) * ability.Damage * (attackStat / defenseStat)) / 50) + Random.Range(-damageVariance, damageVariance);
+        calculatedDamage = (int)Mathf.Max(damage, 1);
+
+        _target.DeductHealth((int)calculatedDamage);
 
         onDamageToTarget.Invoke(calculatedDamage, _target, ability);
         return calculatedDamage;

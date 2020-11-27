@@ -31,6 +31,15 @@ public class EnemyBattleController : IBattleCharacter
         health = Random.Range(200, 500);
 
         dmgEffect.onDamageToTarget.AddListener(ProcessBattleResult);
+
+        // Used to figure out when Struggle becomes active
+        foreach (Ability ability in abilities)
+        {
+            if (ability.AbilityCost < minAbilityCost)
+            {
+                minAbilityCost = ability.AbilityCost;
+            }
+        }
     }
 
     public override void SelectAction()

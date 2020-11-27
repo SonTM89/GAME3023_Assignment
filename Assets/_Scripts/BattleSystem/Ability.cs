@@ -10,6 +10,9 @@ public class Ability : ScriptableObject
 {
     [SerializeField]
     List<Effect> effects;
+    public Effect[] extraEffects;
+
+    public float activationChance = -100;
 
     public GameObject abilityAnimation;
     public string characterAnimationTrigger = "";
@@ -80,6 +83,18 @@ public class Ability : ScriptableObject
         foreach (var effect in effects)
         {
             yield return effect.TriggerEffect(_caster, _target, this, dialogue);
+        }
+
+        // Bonus effects that has a success rate
+        foreach (Effect effect in extraEffects)
+        {
+            int randomRoll = Random.Range(0, 100);
+
+            // Play status 
+            if (randomRoll <= activationChance)
+            {
+                yield return effect.TriggerEffect(_caster, _target, this, dialogue);
+            }
         }
     }
 

@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class PlayerCharacterController : MonoBehaviour
+public class PlayerCharacterController : IBattleCharacter
 {
     [SerializeField]
     Rigidbody2D rb;
@@ -13,7 +14,18 @@ public class PlayerCharacterController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // Used to figure out when Struggle becomes active
+        foreach (Ability ability in abilities)
+        {
+            if (ability.AbilityCost < minAbilityCost)
+            {
+                minAbilityCost = ability.AbilityCost;
+            }
+        }
+    }
 
+    public override void SelectAction()
+    {
     }
 
     // Update is called once per frame

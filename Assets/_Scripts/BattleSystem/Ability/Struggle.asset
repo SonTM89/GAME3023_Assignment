@@ -10,20 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8a147463007798f4fb9c43680d2297e3, type: 3}
-  m_Name: Pass
+  m_Name: Struggle
   m_EditorClassIdentifier: 
   effects:
-  - {fileID: 11400000, guid: 52bd058b2f11da547888811529c94164, type: 2}
-  extraEffects: []
-  activationChance: -100
+  - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  extraEffects:
+  - {fileID: 11400000, guid: 485d64726b26cff40a2b6ef792fae40c, type: 2}
+  activationChance: 10
   abilityAnimation: {fileID: 0}
-  characterAnimationTrigger: 
-  abilityID: 9
-  abilityName: PASS
-  damage: 0
-  damageType: 0
-  abilityCost: -9999
-  abilityPriority: 9999
+  characterAnimationTrigger: MoveCloser
+  abilityID: 8
+  abilityName: STRUGGLE
+  damage: 10
+  damageType: 1
+  abilityCost: 0
+  abilityPriority: 0
   onAbilityUse:
     m_PersistentCalls:
       m_Calls: []
