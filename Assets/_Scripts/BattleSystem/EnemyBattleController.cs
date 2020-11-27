@@ -5,9 +5,6 @@ using UnityEngine;
 public class EnemyBattleController : IBattleCharacter
 {
     [SerializeField]
-    PlayerBattleController player;
-
-    [SerializeField]
     float[] weights = { 25, 25, 25, 25 };
 
     [SerializeField]
@@ -53,25 +50,25 @@ public class EnemyBattleController : IBattleCharacter
 
         if (randRoll < weights[0])
         {
-            Abilities[0].SelectAbility(this, player);
+            Abilities[0].SelectAbility(this, PlayerBattleController.Instance);
             selectedAbility = 0;
             selectedAbilityName = Abilities[0].name;
         }
         else if (randRoll < weights[0] + weights[1])
         {
-            Abilities[1].SelectAbility(this, player);
+            Abilities[1].SelectAbility(this, PlayerBattleController.Instance);
             selectedAbility = 1;
             selectedAbilityName = Abilities[1].name;
         }
         else if (randRoll < weights[0] + weights[1] + weights[2])
         {
-            Abilities[2].SelectAbility(this, player);
+            Abilities[2].SelectAbility(this, PlayerBattleController.Instance);
             selectedAbility = 2;
             selectedAbilityName = Abilities[2].name;
         }
         else
         {
-            Abilities[3].SelectAbility(this, player);
+            Abilities[3].SelectAbility(this, PlayerBattleController.Instance);
             selectedAbility = 3;
             selectedAbilityName = Abilities[3].name;
         }
@@ -79,7 +76,7 @@ public class EnemyBattleController : IBattleCharacter
 
     public void ProcessBattleResult(int damage, IBattleCharacter _target, Ability ability)
     {
-        if (ReferenceEquals(_target, player))
+        if (ReferenceEquals(_target, PlayerBattleController.Instance))
         {
             if (lastDmgOutput <= 0)
             {

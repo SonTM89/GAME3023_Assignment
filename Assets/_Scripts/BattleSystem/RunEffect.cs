@@ -12,7 +12,9 @@ public class RunEffect : Effect
         dialogue.text = _caster.CharacterName + " ran away...";
         yield return new WaitForSeconds(2);
 
-        SceneManager.LoadScene("Level1");
+        //SceneManager.LoadScene("Level1");
+        RunAway escape = new RunAway();
+        escape.Escape();
         yield return new WaitForSeconds(2);
     }
 }

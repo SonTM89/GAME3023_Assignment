@@ -21,9 +21,6 @@ public class BattleSystem : MonoBehaviour
     Button playerRunButton;
 
     [SerializeField]
-    PlayerBattleController player;
-
-    [SerializeField]
     EnemyBattleController enemy;
 
     [SerializeField]
@@ -63,15 +60,15 @@ public class BattleSystem : MonoBehaviour
         {
             int temp = i; // For the lambda to work
 
-            abilityButtons[i].transform.GetChild(0).GetComponent<TMP_Text>().text = player.Abilities[i].AbilityName;
+            abilityButtons[i].transform.GetChild(0).GetComponent<TMP_Text>().text = PlayerBattleController.Instance.Abilities[i].AbilityName;
 
             // Buttons have an ability attached to them, clicking them picks an ability
-            abilityButtons[i].onClick.AddListener(() => { player.Abilities[temp].SelectAbility(player, enemy); });
+            abilityButtons[i].onClick.AddListener(() => { PlayerBattleController.Instance.Abilities[temp].SelectAbility(PlayerBattleController.Instance, enemy); });
         }
 
         // Separated the Run and Pass from "Abilities" but still treating them as abilities to unify them
-        playerRunButton.onClick.AddListener(() => { allAbilities.GetAbility(allAbilities.NumberOfAbilities() - 1).SelectAbility(player, enemy); });
-        playerPassButton.onClick.AddListener(() => { allAbilities.GetAbility(allAbilities.NumberOfAbilities() - 2).SelectAbility(player, enemy); });
+        playerRunButton.onClick.AddListener(() => { allAbilities.GetAbility(allAbilities.NumberOfAbilities() - 1).SelectAbility(PlayerBattleController.Instance, enemy); });
+        playerPassButton.onClick.AddListener(() => { allAbilities.GetAbility(allAbilities.NumberOfAbilities() - 2).SelectAbility(PlayerBattleController.Instance, enemy); });
 
         selectedAbilities = new List<Ability>();
         attackOrder = new List<IBattleCharacter>();
