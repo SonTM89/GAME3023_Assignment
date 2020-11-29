@@ -30,13 +30,14 @@ public class EnemyBattleController : IBattleCharacter
         dmgEffect.onDamageToTarget.AddListener(ProcessBattleResult);
 
         // Used to figure out when Struggle becomes active
-        foreach (Ability ability in abilities)
-        {
-            if (ability.AbilityCost < minAbilityCost)
-            {
-                minAbilityCost = ability.AbilityCost;
-            }
-        }
+        // Unused
+        //foreach (Ability ability in abilities)
+        //{
+        //    if (ability.AbilityCost < minAbilityCost)
+        //    {
+        //        minAbilityCost = ability.AbilityCost;
+        //    }
+        //}
     }
 
     public override void SelectAction()
@@ -48,9 +49,12 @@ public class EnemyBattleController : IBattleCharacter
     {
         int randRoll = Random.Range(1, 100);
 
+        // Pick an ability based on weights
         if (randRoll < weights[0])
         {
             Abilities[0].SelectAbility(this, PlayerBattleController.Instance);
+
+            // Primarily here for debugging
             selectedAbility = 0;
             selectedAbilityName = Abilities[0].name;
         }

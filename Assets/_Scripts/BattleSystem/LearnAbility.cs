@@ -34,7 +34,7 @@ public class LearnAbility : MonoBehaviour
 
             abilityButtons[i].transform.GetChild(0).GetComponent<TMP_Text>().text = PlayerBattleController.Instance.Abilities[i].AbilityName;
 
-            // Buttons have an ability attached to them, clicking them picks an ability
+            // Buttons have an ability attached to them
             abilityButtons[i].onClick.AddListener(() => { ReplaceSkill(temp); });
         }
     }

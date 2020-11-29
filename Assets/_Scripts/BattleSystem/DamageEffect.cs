@@ -38,6 +38,7 @@ public class DamageEffect : Effect
         int defenseStat = 1;
         int attackStat = 0;
 
+        // Defense for attack, special defense for special attack
         switch (ability.DmgType)
         {
             case Ability.DamageType.ATTACK:
@@ -54,7 +55,7 @@ public class DamageEffect : Effect
 
         // Modified damage calculation from Bulbapedia
         float damage = ((((20) + 2) * ability.Damage * (attackStat / defenseStat)) / 50) + Random.Range(-damageVariance, damageVariance);
-        calculatedDamage = (int)Mathf.Max(damage, 1);
+        calculatedDamage = (int)Mathf.Max(damage, 1); 
 
         _target.DeductHealth((int)calculatedDamage);
 

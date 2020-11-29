@@ -95,7 +95,7 @@ public class BattleSystem : MonoBehaviour
             attackOrder.Add(ability.Caster);
             targetOrder.Add(ability.Target);
         }
-        // Actions go first - ex: items, run, pass
+        // Certain actions go first - determined by priority
         else if (selectedAbilities.Count > 0 &&
             ability.AbilityPriority > selectedAbilities[0].AbilityPriority)
         {
@@ -170,6 +170,8 @@ public class BattleSystem : MonoBehaviour
         enemy.SelectAction();
     }
 
+    // Either the player wins and the learn ability panels become enabled,
+    // or the player lost and their last save is loaded.
     IEnumerator EndBattle(string text)
     {
         dialogue.text = text;
@@ -182,6 +184,7 @@ public class BattleSystem : MonoBehaviour
         }
         else
         {
+            // By requirement, when player loses, load last save.
             SaveLocation.LoadPlayerLocation();
             RunAway runAway = new RunAway();
             runAway.Escape();

@@ -33,12 +33,13 @@ public class PlayerBattleController : IBattleCharacter
         originalHealth = health;
 
         // Used to figure out when Struggle becomes active
-        foreach (Ability ability in abilities)
-        {
-            if (ability.AbilityCost < minAbilityCost)
-            {
-                minAbilityCost = ability.AbilityCost;
-            }
-        }
+        // Unused since current system will just use Struggle when someone tries to use an ability without the correct price
+        //foreach (Ability ability in abilities)
+        //{
+        //    if (ability.AbilityCost < minAbilityCost)
+        //    {
+        //        minAbilityCost = ability.AbilityCost;
+        //    }
+        //}
     }
 }

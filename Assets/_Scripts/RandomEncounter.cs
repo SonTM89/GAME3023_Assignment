@@ -38,15 +38,13 @@ public class RandomEncounter : MonoBehaviour
         // Random Encounters @ 5% chance
         if (Random.Range(0, 100) < 5)
         {
+            // When the spring arm gets disabled the camera freezes in the current position, which the spring arm will take as
+            // the original position on re-enable.
+            PlayerCharacterController.Instance.GetComponentInChildren<Camera>().gameObject.transform.localPosition = new Vector3(0, 0, -10);
             PlayerCharacterController.Instance.gameObject.SetActive(false);
             PlayerBattleController.Instance.character.SetActive(true);
 
             SceneManager.LoadScene("EnemyEncounter");
-            Debug.Log("Hit");
-        }
-        else
-        {
-            Debug.Log("Miss");
         }
     }
 }
