@@ -39,7 +39,7 @@ MonoBehaviour:
     customBlendFactors:
       multiplicative: 0
       additive: 0
-  - name: Blend Style 3
+  - name: Multiply
     maskTextureChannel: 0
     renderTextureScale: 1
     blendMode: 1
