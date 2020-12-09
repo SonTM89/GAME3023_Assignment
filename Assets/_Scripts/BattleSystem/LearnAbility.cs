@@ -42,6 +42,9 @@ public class LearnAbility : MonoBehaviour
     public void ReplaceSkill(int slotNumber)
     {
         PlayerBattleController.Instance.Abilities[slotNumber] = newAbility;
+        
+        // Save Player 's current abilities
+        SavePlayerAbility();
 
         StartCoroutine(ExitBattle());
     }
@@ -53,5 +56,22 @@ public class LearnAbility : MonoBehaviour
         yield return new WaitForSeconds(2);
 
         exitBattle.Escape();
+    }
+
+    // Save Player's current abilites
+    void SavePlayerAbility()
+    {
+        string savedData = "";
+
+        for(int i = 0; i < PlayerBattleController.Instance.Abilities.Length; i++)
+        {
+            savedData += (PlayerBattleController.Instance.Abilities[i].AbilityID).ToString();
+            if(i < PlayerBattleController.Instance.Abilities.Length - 1)
+            {
+                savedData += ",";
+            }
+        }
+
+        PlayerPrefs.SetString("Abilities", savedData);
     }
 }

@@ -50,6 +50,9 @@ public class BattleSystem : MonoBehaviour
 
     void Setup()
     {
+        // Load Player's current abilities
+        LoadPlayerAbilities();
+
         // Add Listeners to all abilities
         for (int i = 0; i < allAbilities.NumberOfAbilities(); i++)
         {
@@ -188,6 +191,25 @@ public class BattleSystem : MonoBehaviour
             SaveLocation.LoadPlayerLocation();
             RunAway runAway = new RunAway();
             runAway.Escape();
+        }
+    }
+
+    void LoadPlayerAbilities()
+    {
+        string saveKey = "Abilities";
+
+        if (PlayerPrefs.HasKey(saveKey))
+        {
+            string savedData = PlayerPrefs.GetString(saveKey, "");
+            Debug.Log(savedData);
+
+            char[] delimiters = new char[] { ',' };
+            string[] splitData = savedData.Split(delimiters);
+
+            for(int i = 0; i < splitData.Length; i++)
+            {
+                PlayerBattleController.Instance.Abilities[i] = allAbilities.GetAbility(int.Parse(splitData[i]));
+            }
         }
     }
 }

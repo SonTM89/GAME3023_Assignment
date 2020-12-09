@@ -25,7 +25,7 @@ public class EnemyBattleController : IBattleCharacter
         spAttack = Random.Range(95, 115);
         spDefense = Random.Range(95, 115);
 
-        health = Random.Range(200, 500);
+        health = Random.Range(20, 50);
 
         dmgEffect.onDamageToTarget.AddListener(ProcessBattleResult);
 
