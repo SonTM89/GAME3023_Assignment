@@ -7,6 +7,7 @@ TagManager:
   - City
   - Overworld
   - Level1
+  - Overlay
   layers:
   - Default
   - TransparentFX
