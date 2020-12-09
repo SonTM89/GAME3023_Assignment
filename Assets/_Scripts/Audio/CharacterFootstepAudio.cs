@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CharacterFootstepAudio : MonoBehaviour
 {
@@ -21,6 +22,9 @@ public class CharacterFootstepAudio : MonoBehaviour
 
         footstepSource.pitch = Random.Range(1.0f - pitchVariance, 1.0f + pitchVariance);
 
-        footstepSource.Play();
+        if(SceneManager.GetActiveScene().name != "EnemyEncounter")
+        {
+            footstepSource.Play();
+        }       
     }
 }
