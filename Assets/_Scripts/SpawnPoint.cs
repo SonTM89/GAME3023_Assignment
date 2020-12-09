@@ -10,12 +10,16 @@ public class SpawnPoint : MonoBehaviour
     static PlayerCharacterController player = null;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
-        // Instantiate a new player
         if (player == null)
         {
-            player = Instantiate(playerPrefab, transform.position, transform.rotation).GetComponent<PlayerCharacterController>();
+            player = FindObjectOfType<PlayerCharacterController>();
+            // Instantiate a new player
+            if (player == null)
+            {
+                player = Instantiate(playerPrefab, transform.position, transform.rotation).GetComponent<PlayerCharacterController>();
+            }
         }
     }
 }

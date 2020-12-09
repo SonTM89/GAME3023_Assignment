@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 595370843267680018}
   - component: {fileID: 595370843267680237}
-  - component: {fileID: 595370843267680239}
   - component: {fileID: 1207006793}
   - component: {fileID: 1207006792}
   - component: {fileID: 6556708205672272661}
@@ -78,14 +77,6 @@ Camera:
   m_OcclusionCulling: 0
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!81 &595370843267680239
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 595370843267680238}
-  m_Enabled: 1
 --- !u!50 &1207006793
 Rigidbody2D:
   serializedVersion: 4
@@ -379,7 +370,7 @@ MonoBehaviour:
   - {x: -0.30891967, y: 0.57905614, z: 0}
   m_ShapePathHash: 2069112013
   m_Mesh: {fileID: 0}
-  m_InstanceId: 37958
+  m_InstanceId: -24844
 --- !u!1 &8693400857744764606
 GameObject:
   m_ObjectHideFlags: 0

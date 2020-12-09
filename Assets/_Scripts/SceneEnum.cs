@@ -4,7 +4,9 @@ using UnityEngine;
 
 public enum SceneEnum
 {
+    STARTSCENE,
     OVERWORLD,
     CITY,
-    LEVEL1
+    LEVEL1,
+    ENEMYENCOUNTER
 }
