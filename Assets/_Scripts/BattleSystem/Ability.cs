@@ -85,17 +85,20 @@ public class Ability : ScriptableObject
             yield return effect.TriggerEffect(_caster, _target, this, dialogue);
         }
 
-        // Bonus effects that has a success rate
-        foreach (Effect effect in extraEffects)
+        if(extraEffects != null)
         {
-            int randomRoll = Random.Range(0, 100);
-
-            // Play status 
-            if (randomRoll <= activationChance)
+            // Bonus effects that has a success rate
+            foreach (Effect effect in extraEffects)
             {
-                yield return effect.TriggerEffect(_caster, _target, this, dialogue);
+                int randomRoll = Random.Range(0, 100);
+
+                // Play status 
+                if (randomRoll <= activationChance)
+                {
+                    yield return effect.TriggerEffect(_caster, _target, this, dialogue);
+                }
             }
-        }
+        }       
     }
 
     public void SelectAbility(IBattleCharacter _caster, IBattleCharacter _target)

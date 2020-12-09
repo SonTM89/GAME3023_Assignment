@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   effects:
   - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  extraEffects: []
+  activationChance: -100
   abilityAnimation: {fileID: 46641844209360535, guid: fc815b1289559d74c83781c938470b65, type: 3}
   characterAnimationTrigger: 
   abilityID: 0

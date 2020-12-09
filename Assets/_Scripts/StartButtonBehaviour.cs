@@ -20,6 +20,7 @@ public class StartButtonBehaviour : MonoBehaviour
     // Event handler for the StartButton_Pressed Event
     public void OnStartButtonPressed()
     {
-        SceneManager.LoadScene("Overworld");
+        SaveLocation.LoadCurrentScene();
+        //SceneManager.LoadScene("Overworld");
     }
 }

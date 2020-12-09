@@ -36,6 +36,7 @@ public class PlayerCharacterController : MonoBehaviour
         SaveLocation.LoadPlayerLocation();
 
         Saver.OnSave.AddListener(SaveLocation.SavePlayerLocation);
+        Saver.OnSave.AddListener(SaveLocation.SaveScene);
     }
 
     // Update is called once per frame
