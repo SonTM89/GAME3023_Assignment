@@ -6,6 +6,7 @@ TagManager:
   tags:
   - City
   - Overworld
+  - Level1
   layers:
   - Default
   - TransparentFX

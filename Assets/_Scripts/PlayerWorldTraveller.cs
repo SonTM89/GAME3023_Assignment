@@ -7,6 +7,9 @@ public class PlayerWorldTraveller : MonoBehaviour
 {
     string spawnLocation = null;
 
+    [SerializeField]
+    public SpringJoint2D cameraSpring;
+
     //Property
     public string SpawnLocation
     {
@@ -17,8 +20,18 @@ public class PlayerWorldTraveller : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
+
         // Keep player exists in new scene
         DontDestroyOnLoad(gameObject);
+    }
+
+    private void Update()
+    {
+        if(cameraSpring.distance > 0.005)
+        {
+            cameraSpring.distance = 0.005f;
+        }
     }
 
     // Set position for player at new scene
