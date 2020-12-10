@@ -41,7 +41,7 @@ public class RandomEncounter : MonoBehaviour
             // When the spring arm gets disabled the camera freezes in the current position, which the spring arm will take as
             // the original position on re-enable.
             PlayerCharacterController.Instance.GetComponentInChildren<Camera>().gameObject.transform.localPosition = new Vector3(0, 0, -10);
-            PlayerCharacterController.Instance.gameObject.SetActive(false);
+            PlayerCharacterController.Instance.TurnOff();
             PlayerBattleController.Instance.character.SetActive(true);
 
             SceneManager.LoadScene("EnemyEncounter");

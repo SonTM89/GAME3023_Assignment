@@ -49,4 +49,16 @@ public class PlayerCharacterController : MonoBehaviour
         //transform.Translate(movementVector);
         rb.velocity = movementVector;
     }
+
+    public void TurnOff()
+    {
+        GetComponent<SpriteRenderer>().enabled = false;
+        this.enabled = false;
+    }
+
+    public void TurnOn()
+    {
+        GetComponent<SpriteRenderer>().enabled = true;
+        this.enabled = true;
+    }
 }

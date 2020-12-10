@@ -49,8 +49,6 @@ public class BattleSystem : MonoBehaviour
 
     void Setup()
     {
-        //allAbilities.AssignAbilityIDs();
-
         // Load Player's current abilities
         LoadPlayerAbilities();
 
@@ -190,6 +188,9 @@ public class BattleSystem : MonoBehaviour
         {
             // By requirement, when player loses, load last save.
             SaveLocation.LoadPlayerLocation();
+
+            PlayerBattleController.Instance.Reset();
+
             RunAway runAway = new RunAway();
             runAway.Escape();
         }

@@ -42,4 +42,10 @@ public class PlayerBattleController : IBattleCharacter
         //    }
         //}
     }
+
+    public void Reset()
+    {
+        health = originalHealth;
+        mana = 100;
+    }
 }
