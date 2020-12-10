@@ -24,7 +24,7 @@ public class AbilityTable : ScriptableObject
     {
         for(int i = 0; i < abilities.Length; i++)
         {
-            abilities[i].AbilityID = i;
+            //abilities[i].AbilityID = i;
         }
     }
 

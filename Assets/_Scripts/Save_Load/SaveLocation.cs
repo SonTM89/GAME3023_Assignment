@@ -61,7 +61,7 @@ public static class SaveLocation
     public static void LoadCurrentScene()
     {
         string saveKey = "CurrentScene";
-        int savedData = PlayerPrefs.GetInt(saveKey);
+        int savedData = PlayerPrefs.GetInt(saveKey, (int)SceneEnum.OVERWORLD);
 
         switch(savedData)
         {

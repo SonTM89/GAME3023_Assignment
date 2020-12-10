@@ -8,8 +8,7 @@ using UnityEngine.SceneManagement;
 
 public class BattleSystem : MonoBehaviour
 {
-    [SerializeField]
-    AbilityTable allAbilities;
+    public AbilityTable allAbilities;
 
     [SerializeField]
     Button[] abilityButtons = new Button[4];
@@ -50,6 +49,8 @@ public class BattleSystem : MonoBehaviour
 
     void Setup()
     {
+        //allAbilities.AssignAbilityIDs();
+
         // Load Player's current abilities
         LoadPlayerAbilities();
 

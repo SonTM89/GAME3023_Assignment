@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
+#if UNITY_EDITOR
 [CustomEditor(typeof(AbilityTable))]
 public class AbilityTableEditor : Editor
 {
@@ -20,3 +21,4 @@ public class AbilityTableEditor : Editor
         }
     }
 }
+#endif

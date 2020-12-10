@@ -9,6 +9,13 @@ using UnityEngine.SceneManagement;
 public class Ability : ScriptableObject
 {
     [SerializeField]
+    int abilityID;
+    public int AbilityID
+    {
+        get { return abilityID; }
+    }
+
+    [SerializeField]
     List<Effect> effects;
     public Effect[] extraEffects;
 
@@ -16,14 +23,6 @@ public class Ability : ScriptableObject
 
     public GameObject abilityAnimation;
     public string characterAnimationTrigger = "";
-
-    [SerializeField]
-    int abilityID;
-    public int AbilityID
-    {
-        get { return abilityID; }
-        set { abilityID = value; }
-    }
 
     [SerializeField]
     string abilityName;

@@ -14,9 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   effects:
   - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  extraEffects: []
+  activationChance: -100
   abilityAnimation: {fileID: 854446194850842413, guid: df0d54056aff31d4b855899eeb4876d0, type: 3}
   characterAnimationTrigger: 
-  abilityID: 0
+  abilityID: 1
   abilityName: BoneThrow
   damage: 20
   damageType: 1

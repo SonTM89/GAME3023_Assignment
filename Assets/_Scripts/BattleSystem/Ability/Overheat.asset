@@ -12,11 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a147463007798f4fb9c43680d2297e3, type: 3}
   m_Name: Overheat
   m_EditorClassIdentifier: 
+  abilityID: 4
   effects:
   - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  extraEffects: []
+  activationChance: -100
   abilityAnimation: {fileID: 3800895861172047154, guid: 5fdc0278dcf21a74e9795c534c9696d3, type: 3}
   characterAnimationTrigger: 
-  abilityID: 0
   abilityName: OVERHEAT
   damage: 120
   damageType: 2

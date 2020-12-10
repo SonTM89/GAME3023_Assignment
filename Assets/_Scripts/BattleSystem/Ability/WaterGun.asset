@@ -12,11 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a147463007798f4fb9c43680d2297e3, type: 3}
   m_Name: WaterGun
   m_EditorClassIdentifier: 
+  abilityID: 6
   effects:
   - {fileID: 11400000, guid: 08eb565963c8b474f9eefe860cacffda, type: 2}
+  extraEffects: []
+  activationChance: -100
   abilityAnimation: {fileID: 3520396193803313049, guid: 1b3cffe51cfd08148bed5abb54fe9ff8, type: 3}
   characterAnimationTrigger: 
-  abilityID: 0
   abilityName: WATERGUN
   damage: 40
   damageType: 2
